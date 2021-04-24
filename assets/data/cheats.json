@@ -1,0 +1,1381 @@
+[
+    {
+        "category": "cheats",
+        "cheatCategory": "Money",
+        "cheats": [
+            {
+                "cheatName": "kaching",
+                "cheatResult": "Get 1,000 Simoleons"
+            },
+            {
+                "cheatName": "rosebud",
+                "cheatResult": "Get 1,000 Simoleons"
+            },
+            {
+                "cheatName": "motherlode",
+                "cheatResult": "Get 50,000 Simoleons"
+            },
+            {
+                "cheatName": "Money {number}",
+                "cheatResult": "Change funds from household to exact number"
+            },
+            {
+                "cheatName": "FreeRealEstate {on/off}",
+                "cheatResult": "All lots are free when you enter this cheat when in neighborhood/world"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Build/Buy Mode",
+        "cheats": [
+            {
+                "cheatName": "bb.moveobjects",
+                "cheatResult": "Combine objects by ignoring placement rules (Move Objects on)"
+            },
+            {
+                "cheatName": "bb.ignoregameplayunlocksentitlement",
+                "cheatResult": "Unlock all career rewards (including styled rooms)"
+            },
+            {
+                "cheatName": "Shift + ü ",
+                "cheatResult": "Increase the size of objects"
+            },
+            {
+                "cheatName": "Shift + ğ",
+                "cheatResult": "Decrease the size of objects"
+            },
+            {
+                "cheatName": "Click roof and use Shift + C",
+                "cheatResult": "AAdd more options to manipulate roofs"
+            },
+            {
+                "cheatName": "bb.showhiddenobjects",
+                "cheatResult": "Buy Debug mode (adds extra objects)"
+            },
+            {
+                "cheatName": "bb.showliveeditobjects",
+                "cheatResult": "Unlocks over 1000 extra world environment objects to your game (you’ll also have to use the bb.showhiddenobjects cheat before they show up)"
+            },
+            {
+                "cheatName": "bb.enablefreebuild",
+                "cheatResult": "AEdit the Hospital, Police Station and the Science Lab in The Sims 4 Get To Work and the Magic HQ in Realm of Magic. This will also work on secret lots."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Skill Cheats",
+        "cheats": [
+            {
+                "cheatName": "stats.set_skill_level Major_Acting 10",
+                "cheatResult": "Max out Acting skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Archaeology 10",
+                "cheatResult": "Max out Archaeology skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Baking 10",
+                "cheatResult": "Max out Baking skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Bowling 5",
+                "cheatResult": "Max out Bowling skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_HomestyleCooking 10",
+                "cheatResult": "Max out Cooking skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Minor_Dancing 5",
+                "cheatResult": "Max out Dancing skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_DJ 10",
+                "cheatResult": "Max out DJ skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Charisma 10",
+                "cheatResult": "Max out Charisma skilll"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Comedy 10",
+                "cheatResult": "Max out Comedy skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level AdultMajor_Fabrication 10",
+                "cheatResult": "Max out Fabrication skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Fishing 10",
+                "cheatResult": "Max out Fishing skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Fitness 10",
+                "cheatResult": "Max out Acting skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level statistic_skill_AdultMajor_FlowerArranging 10",
+                "cheatResult": "Max out Flower Arranging skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Gardening 10",
+                "cheatResult": "Max out Gardening skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_GourmetCooking 10",
+                "cheatResult": "Max out Gourmet Cooking skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Guitar 10",
+                "cheatResult": "Max out Guitar skilll"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Handiness 10",
+                "cheatResult": "Max out Handiness skill (Woodworking, Pumpkin Carving)"
+            },
+            {
+                "cheatName": "tats.set_skill_level Major_Herbalism 10",
+                "cheatResult": "Max out Herbalism skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level AdultMinor_JuiceFizzing 5",
+                "cheatResult": "Max out Juice Fizzling skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level AdultMajor_Knitting 10",
+                "cheatResult": "Max out Knitting skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Logic 10",
+                "cheatResult": "Max out Logic skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Minor_Media 5",
+                "cheatResult": "Max out Media Production skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Mischief 10",
+                "cheatResult": "Max out Mischief skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Bartending 10",
+                "cheatResult": "Max out Mixology skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Painting 10",
+                "cheatResult": "Max out Painting skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Parenting 10",
+                "cheatResult": "Max out Parenting skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level skill_Dog 5",
+                "cheatResult": "Max out Pet Training skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Photography 10",
+                "cheatResult": "Max out Photography skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Piano 10",
+                "cheatResult": "Max out Piano skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_PipeOrgan 10",
+                "cheatResult": "Max out Pipe Organ skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Programming 10",
+                "cheatResult": "Max out Programming skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_ResearchDebate 10",
+                "cheatResult": "Max out Research & Debate"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Robotics 10",
+                "cheatResult": "Max out Robotics skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Hidden_TreadMill 5",
+                "cheatResult": "Max out Rock Climbing skill (This is a hidden skill)"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_RocketScience 10",
+                "cheatResult": "Max out Rocket Science skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Minor_LocalCulture 5",
+                "cheatResult": "Max out Selvadoradian Culture skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Singing 10",
+                "cheatResult": "Max out Singing skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Hidden_Skating 5",
+                "cheatResult": "Max out Skating skill (This is a hidden skill)"
+            },
+            {
+                "cheatName": "stats.set_skill_level VampireLore 15",
+                "cheatResult": "Max out Vampire Lore skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Vet 10",
+                "cheatResult": "Max out Vet skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_VideoGaming 10",
+                "cheatResult": "Max out Video Gaming skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Violin 10",
+                "cheatResult": "Max out Violin skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Wellness 10",
+                "cheatResult": "Max out Wellness skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level Major_Writing 10",
+                "cheatResult": "Max out Writing skill"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Child Skill Cheats",
+        "cheats": [
+            {
+                "cheatName": "stats.set_skill_level Skill_Child_Creativity 10",
+                "cheatResult": "Max out Creativity skill for kids"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Child_Mental 10",
+                "cheatResult": "Max out Mental skill for kids"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Child_Motor 10",
+                "cheatResult": "Max out Motor skill for kids"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Child_Social 10",
+                "cheatResult": "Max out Social skill for kids"
+            },
+            {
+                "cheatName": "stats.set_skill_level AdultMajor_Knitting 10",
+                "cheatResult": "Max out Knitting skill for kids"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Child_Creativity 10",
+                "cheatResult": "Max out Creativity skill for kids"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Toddler Skill Cheats",
+        "cheats": [
+            {
+                "cheatName": "stats.set_skill_level Skill_Toddler_Communication 5",
+                "cheatResult": "Max out Communication skill for toddlers"
+            },
+            {
+                "cheatName": "sstats.set_skill_level Skill_Toddler_Imagination 5",
+                "cheatResult": "Max out Imagination skill for toddlers"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Toddler_Movement 5",
+                "cheatResult": "MMax out Movement skill for toddlers"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Toddler_Potty 3",
+                "cheatResult": "Max out Potty skill for toddlers"
+            },
+            {
+                "cheatName": "stats.set_skill_level Skill_Toddler_Thinking",
+                "cheatResult": "Max out Thinking skill for toddlers"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Career Promotion Cheats",
+        "cheats": [
+            {
+                "cheatName": "careers.promote Activist",
+                "cheatResult": "Get promoted in the Politician career"
+            },
+            {
+                "cheatName": "careers.promote Actor",
+                "cheatResult": "Get promoted in the Acting career"
+            },
+            {
+                "cheatName": "careers.promote Astronaut",
+                "cheatResult": "Get promoted in the Astronaut career"
+            },
+            {
+                "cheatName": "careers.promote Athletic",
+                "cheatResult": "Get promoted in the Athlete career"
+            },
+            {
+                "cheatName": "careers.promote Business",
+                "cheatResult": "Get promoted in the Business career"
+            },
+            {
+                "cheatName": "careers.promote careers_Adult_CivilDesigner",
+                "cheatResult": "Get promoted in the Civil Designer career"
+            },
+            {
+                "cheatName": "careers.promote Conservationist",
+                "cheatResult": "Get promoted in the Conservationist career"
+            },
+            {
+                "cheatName": "careers.promote Criminal",
+                "cheatResult": "Get promoted in the Criminal career"
+            },
+            {
+                "cheatName": "careers.promote careers_Adult_Freelancer_Agency_Maker",
+                "cheatResult": "Get a raise in the Freelance Crafter career"
+            },
+            {
+                "cheatName": "careers.promote careers_adult_Critic",
+                "cheatResult": "Get promoted in the Critic career"
+            },
+            {
+                "cheatName": "careers.promote Culinary",
+                "cheatResult": "Get promoted in the Culinary career"
+            },
+            {
+                "cheatName": "careers.promote Detective",
+                "cheatResult": "Get promoted in the Detective career"
+            },
+            {
+                "cheatName": "careers.promote Doctor",
+                "cheatResult": "Get promoted in the Doctor career"
+            },
+            {
+                "cheatName": "careers.promote careers_Adult_Education",
+                "cheatResult": "Get promoted in the Education career"
+            },
+            {
+                "cheatName": "careers.promote careers_Adult_Engineer",
+                "cheatResult": "Get promoted in the Engineering career "
+            },
+            {
+                "cheatName": "careers.promote Entertainer",
+                "cheatResult": "Get promoted in the Entertainer career"
+            },
+            {
+                "cheatName": "careers.promote Adult_Gardener",
+                "cheatResult": "Get promoted in the Gardener career"
+            },
+            {
+                "cheatName": "careers.promote careers_Adult_Law",
+                "cheatResult": "Get promoted in the Law career"
+            },
+            {
+                "cheatName": "careers.promote Military",
+                "cheatResult": "Get promoted in the Military career "
+            },
+            {
+                "cheatName": "careers.promote Painterr",
+                "cheatResult": "Get promoted in the Painter career "
+            },
+            {
+                "cheatName": "careers.promote adult_active_Scientist",
+                "cheatResult": "Get promoted in the Scientist career"
+            },
+            {
+                "cheatName": "careers.promote SecretAgent",
+                "cheatResult": "Get promoted in the Secret Agent career"
+            },
+            {
+                "cheatName": "careers.promote SocialMedia",
+                "cheatResult": "GGet promoted in the Social Media career"
+            },
+            {
+                "cheatName": "careers.promote Influencer",
+                "cheatResult": "Get promoted in the Style Influencer career"
+            },
+            {
+                "cheatName": "careers.promote TechGuru",
+                "cheatResult": "Get promoted in the TechGuru career"
+            },
+            {
+                "cheatName": "careers.promote adult_Writer",
+                "cheatResult": "Get promoted in the Writer career"
+            },
+            {
+                "cheatName": "careers.add_career {careername}",
+                "cheatResult": "Add a career to your Sim"
+            },
+            {
+                "cheatName": "careers.remove_career {careername}",
+                "cheatResult": "Quit Career"
+            },
+            {
+                "cheatName": "Careers.retire {careername}",
+                "cheatResult": "Quit your career and receive a pension every week"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Part Time Jobs Promotion Cheats",
+        "cheats": [
+            {
+                "cheatName": "careers.promote PartTime_Babysitter",
+                "cheatResult": "Get promoted as Babysitter"
+            },
+            {
+                "cheatName": "careers.promote PartTime_Barista",
+                "cheatResult": "Get promoted as Barista"
+            },
+            {
+                "cheatName": "careers.promote PartTime_Diver",
+                "cheatResult": "Get promoted as Diver"
+            },
+            {
+                "cheatName": "careers.promote PartTime_FastFood",
+                "cheatResult": "Get promoted as Fast Food Employee"
+            },
+            {
+                "cheatName": "careers.promote PartTime_Fisherman",
+                "cheatResult": "Get promoted as Fisherman"
+            },
+            {
+                "cheatName": "careers.promote PartTime_Lifeguard",
+                "cheatResult": "Get promoted as Lifeguard"
+            },
+            {
+                "cheatName": "ccareers.promote PartTime_Manual",
+                "cheatResult": "Get promoted as Manual Laborer"
+            },
+            {
+                "cheatName": "careers.promote PartTime_Retail",
+                "cheatResult": "Get promoted as Retail Employee"
+            },
+            {
+                "cheatName": "careers.promote careers_Volunteer_SoccerTeam",
+                "cheatResult": "Get “promoted” as volunteer in the Soccer Team"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Teen Jobs Promotion Cheats",
+        "cheats": [
+            {
+                "cheatName": "careers.promote Teen_Babysitter",
+                "cheatResult": "Get promoted as Babysitter (only for teens)"
+            },
+            {
+                "cheatName": "careers.promote Teen_Barista",
+                "cheatResult": "Get promoted as Barista (only for teens)"
+            },
+            {
+                "cheatName": "careers.promote Teen_FastFood",
+                "cheatResult": "Get promoted as Fast Food Employee (only for teens)"
+            },
+            {
+                "cheatName": "careers.promote Teen_Lifeguard",
+                "cheatResult": "Get promoted as Lifeguard (only for teens)"
+            },
+            {
+                "cheatName": "careers.promote Scout",
+                "cheatResult": "Get promoted in the Scout career (only for teens and kids)"
+            },
+            {
+                "cheatName": "careers.promote Teen_Manual",
+                "cheatResult": "Get promoted as Manual Laborer (only for teens)"
+            },
+            {
+                "cheatName": "careers.promote Teen_Retail",
+                "cheatResult": "Get promoted as Retail Employee (only for teens)"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Kids School/Job Cheats",
+        "cheats": [
+            {
+                "cheatName": "careers.promote Gradeschool",
+                "cheatResult": "Raise a Child’s Grade Performance in Grade school"
+            },
+            {
+                "cheatName": "careers.promote Highschool",
+                "cheatResult": "Raise a Child’s Grade Performance in Highschool"
+            },
+            {
+                "cheatName": "careers.promote Scout",
+                "cheatResult": "Get promoted in the Scout career (only for teens and kids)"
+            },
+            {
+                "cheatName": "careers.promote DramaClub",
+                "cheatResult": "Get promoted in the Drama Club (only for teens and kids)"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Fill Need Cheats",
+        "cheats": [
+            {
+                "cheatName": "Shift + click on Sim > Cheat Need > Make Happy",
+                "cheatResult": "Sets all motives to full and sets Mood to Happy"
+            },
+            {
+                "cheatName": "Shift + click on Sim > Cheat Need > Disable Need Decay",
+                "cheatResult": "Allows motives to remain static"
+            },
+            {
+                "cheatName": "Shift + click on Sim > Cheat Need > Enable Need Decay",
+                "cheatResult": "Allows motives to change dynamically"
+            },
+            {
+                "cheatName": "sims.fill_all_commodities",
+                "cheatResult": "Max Motives (Fix everyone’s needs in your household)"
+            },
+            {
+                "cheatName": "fillmotive motive_Bladder",
+                "cheatResult": "Fill the Bladder need of a Sim"
+            },
+            {
+                "cheatName": "fillmotive motive_Energy",
+                "cheatResult": "Fill the Energy need of a Sim"
+            },
+            {
+                "cheatName": "fillmotive motive_Fun",
+                "cheatResult": "Fill the Fun need of a Sim"
+            },
+            {
+                "cheatName": "fillmotive motive_Hunger",
+                "cheatResult": "Fill the Hunger need of a Sim"
+            },
+            {
+                "cheatName": "fillmotive motive_Hygiene",
+                "cheatResult": "Fill the Hygiene need of a Sim"
+            },
+            {
+                "cheatName": "fillmotive motive_Social",
+                "cheatResult": "Fill the Social need of a Sim"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Death Cheats",
+        "cheats": [
+            {
+                "cheatName": "traits.equip_trait Vampire_Sun",
+                "cheatResult": "Immediately turn your Sim into a ghost that died by the Sun. This works on both Vampire and normal Sims."
+            },
+            {
+                "cheatName": "stats.set_stat commodity_Vampire_SunExposure -100",
+                "cheatResult": "Kill your Vampire Sim by the Sun."
+            },
+            {
+                "cheatName": "traits.equip_trait poison",
+                "cheatResult": "Kill your Sim by poison."
+            },
+            {
+                "cheatName": "traits.remove_trait poison",
+                "cheatResult": "Turn your Sim back to life if they where a ghost who died by poison."
+            },
+            {
+                "cheatName": "traits.equip_trait Ghost_Overheat",
+                "cheatResult": "This will turn your Sim immediately into a Ghost who died by Overheating. You’ll be able to use the special interaction to warm up other Sim."
+            },
+            {
+                "cheatName": "traits.remove_trait Ghost_Overheat",
+                "cheatResult": "Turn your Sim back to life if they where a ghost who died by Overheating."
+            },
+            {
+                "cheatName": "traits.equip_trait Ghost_Frozen",
+                "cheatResult": "This will turn your Sim immediately into a Ghost who died by Freezing. You’ll be able to use the special interaction to cool Sim off."
+            },
+            {
+                "cheatName": "traits.remove_trait Ghost_Frozen",
+                "cheatResult": "FTurn your Sim back to life if they where a ghost who died by Freezing."
+            },
+            {
+                "cheatName": "traits.equip_trait Ghost_Lightning",
+                "cheatResult": "This will turn your Sim immediately into a Ghost who died by Lightning."
+            },
+            {
+                "cheatName": "traits.remove_trait Ghost_Lightning",
+                "cheatResult": "Turn your Sim back to life if they where a ghost who died by Lightning."
+            },
+            {
+                "cheatName": "traits.equip_trait trait_Ghost_MurphyBed",
+                "cheatResult": "Kill your Sim by Being Crushed By a Murphy Bed."
+            },
+            {
+                "cheatName": "traits.remove_trait trait_Ghost_MurphyBed",
+                "cheatResult": "Turn your Sim back to life if they where a ghost who died by Being Crushed By a Murphy Bed.s"
+            },
+            {
+                "cheatName": "traits.equip_trait trait_Ghost_Flies",
+                "cheatResult": "Turn your Sim into a Ghost that was attack by flies"
+            },
+            {
+                "cheatName": "traits.equip_trait trait_Ghost_Beetle",
+                "cheatResult": "Turn your Sim into a Ghost who died by drinking a well-mixed bug drink"
+            },
+            {
+                "cheatName": "sims.get_sim_id_by_name {PlayedPetFirstName} {PlayedPetLastName}",
+                "cheatResult": "Get the Pet’s ID. You need this ID to enter the cheat code below."
+            },
+            {
+                "cheatName": "traits.equip_trait Ghost_OldAge {Pet ID}",
+                "cheatResult": "Kill your pet and turn into a ghost"
+            },
+            {
+                "cheatName": "Death.toggle",
+                "cheatResult": "Disables Death"
+            },
+            {
+                "cheatName": "sims.add_buff Ghostly",
+                "cheatResult": "Makes Sims a ghost for 4 hours."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Relationship/Social Cheats",
+        "cheats": [
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} 100 LTR_Friendship_Main",
+                "cheatResult": "Adds positive friendship to 2 Sims. Example: modifyrelationship Bella Goth Mortimer Goth 100 LTR_Friendship_Main"
+            },
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} 100 LTR_Romance_Main",
+                "cheatResult": "Adds positive romance to 2 Sims. Example: modifyrelationship Bella Goth Mortimer Goth 100 LTR_Romance_Main"
+            },
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} -100 Friendship_Main",
+                "cheatResult": "Adds negative friendship to 2 Sims. Example: modifyrelationship Bella Goth Mortimer Goth -100 LTR_Friendship_Main"
+            },
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} -100 Romance_Main",
+                "cheatResult": "Adds negative romance to 2 Sims. Example: modifyrelationship Bella Goth Mortimer Goth -100 LTR_Romance_Main"
+            },
+            {
+                "cheatName": "relationship.introduce_sim_to_all_others",
+                "cheatResult": "Makes Acquaintances with all Sims (takes a few seconds)"
+            },
+            {
+                "cheatName": "relationships.create_friends_for_sim",
+                "cheatResult": "Spawns a new Sim friend on your lot (80% friendship bar)"
+            },
+            {
+                "cheatName": "Shift + click on Sim > Add to Family",
+                "cheatResult": "Add the Sim to the current family"
+            },
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetPetFirstName} {TargetPetLastName} 100 LTR_SimToPet_Friendship_Main",
+                "cheatResult": "Adds positive friendship to a Sim and a pet. Example: modifyrelationship Bella Goth Cashew Goth 100 LTR_SimToPet_Friendship_Main"
+            },
+            {
+                "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetPetFirstName} {TargetPetLastName} -100 LTR_SimToPet_Friendship_Main",
+                "cheatResult": "Adds negative friendship to a Sim and a pet. Example: modifyrelationship Bella Goth Cashew Goth -100 LTR_SimToPet_Friendship_Main"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Reward Point Cheats",
+        "cheats": [
+            {
+                "cheatName": "sims.give_satisfaction_points {number}",
+                "cheatResult": "Gives an exact number of satisfaction points to your Sim"
+            },
+            {
+                "cheatName": "Aspirations.complete_current_milestone",
+                "cheatResult": "Completes current aspiration challenge and awards points"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Trait Cheats",
+        "cheats": [
+            {
+                "cheatName": "traits.equip_trait {TraitNameNoSpaces}",
+                "cheatResult": "Equips a particular trait for your Sim (Complete Trait list)"
+            },
+            {
+                "cheatName": "traits.remove_trait {TraitNameNoSpaces}",
+                "cheatResult": "Removes a particular trait from your Sim"
+            },
+            {
+                "cheatName": "traits.clear_traits",
+                "cheatResult": "Removes all traits from your Sim"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Technical Cheats",
+        "cheats": [
+            {
+                "cheatName": "fullscreen",
+                "cheatResult": "Toggle full screen"
+            },
+            {
+                "cheatName": "Help",
+                "cheatResult": "Lists all available commands"
+            },
+            {
+                "cheatName": "resetSim {Firstname} {Lastname}",
+                "cheatResult": "Reset your Sim"
+            },
+            {
+                "cheatName": "headlineeffects {on/off}",
+                "cheatResult": "Hide all headline effects like Plumbobs, thought balloons, etc."
+            },
+            {
+                "cheatName": "cas.fulleditmode",
+                "cheatResult": "All CAS abilities will become available and you can change their names (click on your Sim and ‘plan outfit’ to modify in CAS after entering the cheat)"
+            },
+            {
+                "cheatName": "Shift + click on Sim > Modify in CAS",
+                "cheatResult": "Allows editing of everything but name change and inherited traits"
+            },
+            {
+                "cheatName": "casclockspeed {0-10}",
+                "cheatResult": "Lower the Create a Sim clock speed (0 is pause)"
+            },
+            {
+                "cheatName": "fps {on/off}",
+                "cheatResult": "See the fps (frames per second) on the screen while playing"
+            },
+            {
+                "cheatName": "hovereffects off",
+                "cheatResult": "Removes the glowing outline when hovering over a Sim or Object"
+            },
+            {
+                "cheatName": "Shift + click on the Ground > Teleport Me Here",
+                "cheatResult": "Teleports selected Sim as close to the clicked spot as possible"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Get to Work – Perk Points Cheats",
+        "cheats": [
+            {
+                "cheatName": "bucks.unlock_perk StorePlacard_1 true",
+                "cheatResult": "My First Simoleon Unlocks a decorative wall object that celebrates the store’s initial success. Check the “Retail Items” section of Build Mode."
+            },
+            {
+                "cheatName": "bucks.unlock_perk PedestalMimic true",
+                "cheatResult": "Unlocks a new Pedestal object to display various items for sale on. Check the “Retail Items” section of Build Mode."
+            },
+            {
+                "cheatName": "bucks.unlock_perk SignageMimic true",
+                "cheatResult": "Unlocks a new sign which can be placed in your store to attract more customers. Check the “Retail Items” section of Build Mode."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RetailOutfit true",
+                "cheatResult": "Snazzy Shirt Unlocks an additional shirt for men and women that’s ideal as an employee uniform."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RegisterMimic true",
+                "cheatResult": "Unlocks the Suros Pecuniary Cash Register; perfect for use in modern, upscale stores. It’s the register of tomorrow… today. Check the “Retail Items” section of Build Mode."
+            },
+            {
+                "cheatName": "bucks.unlock_perk DecreaseRestocking_Temporary true",
+                "cheatResult": "The store’s supplier ordered too much inventory, and they’re temporarily reducing prices to clear space! The cost of restocking items will be reduced for 12 hours. This perk can be repurchased again in the future."
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalWorker_1 true",
+                "cheatResult": "Unlocks the ability to hire one additional employee within the Manage Employees window."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RestockSpeed_Small true",
+                "cheatResult": "Slightly reduces the time it takes members of the household to restock sold items."
+            },
+            {
+                "cheatName": "bucks.unlock_perk CheckoutSpeed_Small true",
+                "cheatResult": "Household members will ring up customers that are ready to purchase an item a bit faster."
+            },
+            {
+                "cheatName": "bucks.unlock_perk StorePlacard_2 true",
+                "cheatResult": "Unlocks a decorative wall object that celebrates the store’s ultimate domination of the marketplace. Check the “Retail Items” section of Build Mode."
+            },
+            {
+                "cheatName": "bucks.unlock_perk CustomerBrowseTime true",
+                "cheatResult": "Customers will spend more time browsing the items for sale in the store before they decide to leave."
+            },
+            {
+                "cheatName": "bucks.unlock_perk ImproveManagementSocials true",
+                "cheatResult": "Management social interactions performed on store employees will have a greater chance of succeeding."
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalWorker_2 true",
+                "cheatResult": "Unlocks the ability to hire one additional employee within the Manage Employees window."
+            },
+            {
+                "cheatName": "bucks.unlock_perk CustomerPurchaseIntent true",
+                "cheatResult": "Customers will have a greater desire to purchase an item when they first enter the store."
+            },
+            {
+                "cheatName": "bucks.unlock_perk CheckoutSpeed_Large true",
+                "cheatResult": "Household members will ring up customers that are ready to purchase an item much faster."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RestockSpeed_Large true",
+                "cheatResult": "Greatly reduces the time it takes members of the household to restock sold items."
+            },
+            {
+                "cheatName": "bucks.unlock_perk SureSaleSocial true",
+                "cheatResult": "Unlocks the “Sure Sale” social interaction, which guarantees a customer will purchase an item when used on them."
+            },
+            {
+                "cheatName": "bucks.unlock_perk ImproveRetailSocials true",
+                "cheatResult": "Retail socials used on customers will have a greater chance of succeeding."
+            },
+            {
+                "cheatName": "bucks.unlock_perk InstantRestock true",
+                "cheatResult": "Members of the household will be able to instantly restock items."
+            },
+            {
+                "cheatName": "bucks.unlock_perk DescreaseRestockingCost true",
+                "cheatResult": "Reduces the price of restocking items."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Get to Work – Retail Skill Cheats",
+        "cheats": [
+            {
+                "cheatName": "stats.set_skill_level retail_workethic 5",
+                "cheatResult": "Max out a Sims Workethic Skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level retail_maintenance 5",
+                "cheatResult": "Max out a Sims Maintenance Skill"
+            },
+            {
+                "cheatName": "stats.set_skill_level retail_sales 5",
+                "cheatResult": "Max out a Sims Sales Skill"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Dine Out – Perk Points Cheats",
+        "cheats": [
+            {
+                "cheatName": "bucks.unlock_perk RecommendDishSocial true",
+                "cheatResult": "Make customers occasionally wish for a recommendation on what to order from management and unlocks the ability to give recommendations through the “Recommand Dish” social."
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalWaiter_1 true",
+                "cheatResult": "Unlocks the ability to hire one additional waiter within the Manage Employees window."
+            },
+            {
+                "cheatName": "bucks.unlock_perk IngredientQualityOptions true",
+                "cheatResult": "Unlocks the ability to choose the quality of meal ingredients."
+            },
+            {
+                "cheatName": "bucks.unlock_perk MoreCustomers true",
+                "cheatResult": "For 24 hours, more customers will stop in to eat at your restaurant."
+            },
+            {
+                "cheatName": "bucks.unlock_perk IngredientCostDiscount true",
+                "cheatResult": "Take advantage of a surplus harvest. The cost of ingredients is discounted for 24 hours."
+            },
+            {
+                "cheatName": "bucks.unlock_perk LengthenImpatienceTimeout true",
+                "cheatResult": "Make customers easier to impress with quick service and willing to wait longer before they get upset at slow service."
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalChef true",
+                "cheatResult": "Unlocks the ability to hire one additional chef with the Manage Employees window. Don’t forget to place a second chef station."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RecommendDishFrequency true",
+                "cheatResult": "Increase how often customers request dish recommendations. (This Perk is unlocked by the Curious Customer Perk)"
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalWaiter_2 true",
+                "cheatResult": "Unlocks the ability to hire one additional waiter within the Manage Employees window. (This Perk is unlocked by the Additional Waiter #1 Perk)"
+            },
+            {
+                "cheatName": "bucks.unlock_perk InspirationalSpeechSocial true",
+                "cheatResult": "Unlock the “Inspirational Speach” social interaction, which can be used to inspire your employees:"
+            },
+            {
+                "cheatName": "bucks.unlock_perk EatFaster true",
+                "cheatResult": "Customers will eat their meals faster."
+            },
+            {
+                "cheatName": "bucks.unlock_perk LowerEmployeeTrainingCost true",
+                "cheatResult": "Lowers the cost of training for employees."
+            },
+            {
+                "cheatName": "bucks.unlock_perk CheaperIngredients_1 true",
+                "cheatResult": "Permanently lowers the cost of ingredients by a small amount."
+            },
+            {
+                "cheatName": "bucks.unlock_perk ExpensiveOrders true",
+                "cheatResult": "Customers will more often choose the more expensive menu items."
+            },
+            {
+                "cheatName": "bucks.unlock_perk RiskFreeMarkup true",
+                "cheatResult": "Customers will tip a bit extra on top of every meal. Can be purchased multiple times for even larger tips!"
+            },
+            {
+                "cheatName": "bucks.unlock_perk CheaperIngredients_2 true",
+                "cheatResult": "Permanently lowers the cost of ingredients by a large amount. (Requires the Ingredients Discount (small) to be unlocked)"
+            },
+            {
+                "cheatName": "bucks.unlock_perk LowerChanceBadEvents_Small true",
+                "cheatResult": "Lowers the chance op bad events happening on the restaurant while your Sim is away."
+            },
+            {
+                "cheatName": "bucks.unlock_perk ChefsHat true",
+                "cheatResult": "Unlocks an additional Chef Hat for your Sims."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Vampires – Powers, Rank, Power Points",
+        "cheats": [
+            {
+                "cheatName": "stats.set_stat commodity_BecomingVampire 2160",
+                "cheatResult": "Change your Sim into a Vampire in a few days (natural transition)"
+            },
+            {
+                "cheatName": "traits.equip_trait trait_OccultVampire",
+                "cheatResult": "Turn your Sim into a Vampire immediately"
+            },
+            {
+                "cheatName": "traits.remove_trait trait_OccultVampire",
+                "cheatResult": "Turn a Vampire back into a normal Sim"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 202",
+                "cheatResult": "Become a Minor Vampire"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 630",
+                "cheatResult": "Become a Prime Vampire"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 1058",
+                "cheatResult": "Become a Master Vampire"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 1486",
+                "cheatResult": "Become a Grand Master Vampire"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 1593",
+                "cheatResult": "Max the rank bar"
+            },
+            {
+                "cheatName": "stats.set_stat rankedStatistic_Occult_VampireXP 1593",
+                "cheatResult": "This will max your vampire rank and give you 2 power points."
+            },
+            {
+                "cheatName": "traits.equip_trait RegainedHumanity",
+                "cheatResult": "Vampires with Regained Humanity seem kinder and safer. Sims are more likely give permission to Drink."
+            },
+            {
+                "cheatName": "traits.equip_trait TheMaster",
+                "cheatResult": "I am the Master grants supernatural control. Command Powers used on Vampire Offspring always succeed."
+            },
+            {
+                "cheatName": "traits.equip_trait TrueMaster",
+                "cheatResult": "A True Master not only excels at Mind Control Powers, they also have greater stores of Vampire Energy to call upon."
+            },
+            {
+                "cheatName": "bucks.lock_all_perks_for_bucks_type 40962 {simID} false",
+                "cheatResult": "Remove weaknesses but keep the rest of your Vampire Powers."
+            },
+            {
+                "cheatName": "ucks.lock_all_perks_for_bucks_type 40961 {simID} true",
+                "cheatResult": "Refund vampire power points and reset the power board."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Parenthood – Character Value Cheats",
+        "cheats": [
+            {
+                "cheatName": "stats.set_stat lifeSkillStatistic_Empathy 100",
+                "cheatResult": "Max out Empathy"
+            },
+            {
+                "cheatName": "stats.set_stat lifeSkillStatistic_Manners 100",
+                "cheatResult": "Max out Manners"
+            },
+            {
+                "cheatName": "stats.set_stat lifeSkillStatistic_Responsibility 100",
+                "cheatResult": "Max out Responsibility"
+            },
+            {
+                "cheatName": "stats.set_stat lifeSkillStatistic_ConflictResolution 100",
+                "cheatResult": "Max out Conflict Resolution"
+            },
+            {
+                "cheatName": "stats.set_stat lifeSkillStatistic_EmotionalControl 100",
+                "cheatResult": "Max out Emotional Control"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Cats & Dogs – Perk Points Cheats for the Vet Clinic",
+        "cheats": [
+            {
+                "cheatName": "bucks.unlock_perk AdditionalVet_1 true",
+                "cheatResult": "Unlocks the ability to hire one additional Vet within the Manage Employees window."
+            },
+            {
+                "cheatName": "Bucks.unlock_perk SupplyQuality true",
+                "cheatResult": "Unlocks the ability to set the quality of vet supplies. This way you can make the vet supplies more expensive or cheaper."
+            },
+            {
+                "cheatName": "bucks.unlock_perk vetperks_MoreCustomers true",
+                "cheatResult": "Temporarily increases the number of patients who come to your Clinic."
+            },
+            {
+                "cheatName": "bucks.unlock_perk vetperks_LengthenImpatienceTimeout true",
+                "cheatResult": "Makes pet owners easier to impress with quick service and less likely to get upset at slow service."
+            },
+            {
+                "cheatName": "bucks.unlock_perk AdditionalVet_2 true",
+                "cheatResult": "Unlocks the ability to hire one additional Vet within the Manage Employees window. You’ll need to unlock Additional Vet #1 first before you can unlock this perk."
+            },
+            {
+                "cheatName": "bucks.unlock_perk vetperks_InspirationalSpeechSocial true",
+                "cheatResult": "Unlocks the “Inspirational Speech” social interaction, which can be used to inspire your employees."
+            },
+            {
+                "cheatName": "bucks.unlock_perk vetperks_LowerEmployeeTrainingCost true",
+                "cheatResult": "Lowers the cost of training for employees."
+            },
+            {
+                "cheatName": "bucks.unlock_perk vetperks_LowerChanceBadEvents_Small true",
+                "cheatResult": "Lowers the chance of bad events happening at the Vet Clinic while your Sim is away."
+            },
+            {
+                "cheatName": "bucks.unlock_perk ReducePetStress true",
+                "cheatResult": "Decreases how quickly pets become stressed during vet procedures."
+            },
+            {
+                "cheatName": "bucks.unlock_perk UnlockCASItem true",
+                "cheatResult": "Unlocks a bonus lab coat for your Sims."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Mermaid Cheats",
+        "cheats": [
+            {
+                "cheatName": "raits.equip_trait trait_OccultMermaid",
+                "cheatResult": "Change your Sim into a Mermaid/Merman"
+            },
+            {
+                "cheatName": "traits.remove_trait trait_OccultMermaid",
+                "cheatResult": "Change your Mermaid/Merman Sim back into a normal Sim"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Moodlet & Emotion Cheats",
+        "cheats": [
+            {
+                "cheatName": "sims.add_buff CoughSneeze_severe",
+                "cheatResult": "Get Uncomfortable Moodlet and your Sim will start coughing and sneezing"
+            },
+            {
+                "cheatName": "sims.add_buff Dizzy_severe",
+                "cheatResult": "Get Dazed Moodlet and your Sims will be dizzy for a while"
+            },
+            {
+                "cheatName": "sims.add_buff Fever_severe",
+                "cheatResult": "Get Uncomfortable Moodlet and your Sim will show a fever"
+            },
+            {
+                "cheatName": "sims.add_buff Giggly_severe",
+                "cheatResult": "Get Playful Moodlet and your Sim will start to giggle"
+            },
+            {
+                "cheatName": "sims.add_buff Headache_severe",
+                "cheatResult": "Get Uncomfortable Moodlet and your Sim will get a headache"
+            },
+            {
+                "cheatName": "sims.add_buff Itchy_severe",
+                "cheatResult": "Get Uncomfortable Moodlet and your Sim will feel itchy"
+            },
+            {
+                "cheatName": "sims.add_buff Nausea_severe",
+                "cheatResult": "Get Uncomfortable Moodlet and your Sim will be nauseous"
+            },
+            {
+                "cheatName": "sims.add_buff SeeingThings_severe",
+                "cheatResult": "Get Dazed Moodlet and your Sim will be delirious for a while"
+            },
+            {
+                "cheatName": "sims.add_buff SteamyEars_severe",
+                "cheatResult": "Get Tense Moodlet and steam will come out of your Sims ears"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Mermaid Cheats",
+        "cheats": [
+            {
+                "cheatName": "sims.get_sim_id_by_name {PlayedSimFirstName} {PlayedSimLastName}",
+                "cheatResult": "Get the pregnant Sim’s ID. You need this ID to enter the cheat code below."
+            },
+            {
+                "cheatName": "pregnancy.force_offspring_count {simID} {amount}",
+                "cheatResult": "Force the amount of babies your pregnant Sim will have. Make sure you enter this cheat while your Sim is already pregnant and don’t enter a number over 7 because the limit is 8 Sims per household."
+            },
+            {
+                "cheatName": "sims.add_buff buff_Pregnancy_InLabor",
+                "cheatResult": "Speed up pregnancy or make Any Sim or Ghost Appear Pregnant"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Pregnancy_Trimester1",
+                "cheatResult": "Make Any Sim or Ghost Appear Pregnant in the First Trimester"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Pregnancy_Trimester2",
+                "cheatResult": "Make Any Sim or Ghost Appear Pregnant in the Second Trimester"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Pregnancy_Trimester3",
+                "cheatResult": "Make Any Sim or Ghost Appear Pregnant in the Third Trimester"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Mermaid Cheats",
+        "cheats": [
+            {
+                "cheatName": "sims.add_buff Buff_Mortified",
+                "cheatResult": "Death by Embarrassment (cause death in a few hours)"
+            },
+            {
+                "cheatName": "sims.add_buff Buff_Motives_Hunger_Starving",
+                "cheatResult": "Death by Hunger (cause death in 24 hours)"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Death_Electrocution_Warning",
+                "cheatResult": "Death by Repair (the Sim has to repair something electronic to trigger death)"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Hysterical",
+                "cheatResult": "Death by Laughing (perform a funny interaction to trigger death)"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Enraged",
+                "cheatResult": "Death by Anger (cause death in a few hours)"
+            },
+            {
+                "cheatName": "sims.add_buff buff_Death_ElderExhaustion_Warning",
+                "cheatResult": "Death by Overexertion (this will kill your Sim instantly)"
+            },
+            {
+                "cheatName": "sims.add_buff Ghostly",
+                "cheatResult": "Makes Sims a ghost for 4 hours."
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Seasons – Change Seasons",
+        "cheats": [
+            {
+                "cheatName": "seasons.set_season <0>",
+                "cheatResult": "Change season to Summer"
+            },
+            {
+                "cheatName": "seasons.set_season <1>",
+                "cheatResult": "Change season to Fall"
+            },
+            {
+                "cheatName": "seasons.set_season <2>",
+                "cheatResult": "Change season to Winter"
+            },
+            {
+                "cheatName": "seasons.set_season <3>",
+                "cheatResult": "Change season to Spring"
+            },
+            {
+                "cheatName": "seasons.advance_season",
+                "cheatResult": "Go to the next season in your current played game"
+            },
+            {
+                "cheatName": "seasons.set_season_length <0>",
+                "cheatResult": "Change the length of the season to 7 days"
+            },
+            {
+                "cheatName": "seasons.set_season_length <1>",
+                "cheatResult": "Change the length of the season to 14 days"
+            },
+            {
+                "cheatName": "seasons.set_season_length <3>",
+                "cheatResult": "Change the length of the season to 28 days"
+            }
+        ]
+    },
+    {
+        "category": "cheats",
+        "cheatCategory": "Seasons – Change Weather",
+        "cheats": [
+            {
+                "cheatName": "Sims.get_sim_id_by_name {Firstname} {Lastname}",
+                "cheatResult": "Retrieve SimsID"
+            }, {
+                "cheatName": "weather.lightning_strike_object {simID}",
+                "cheatResult": "This will trigger a lightning strike on a sim of your choosing."
+            }, {
+                "cheatName": "weather.summon_lightning_strike",
+                "cheatResult": "This will trigger a random lightning strike in your neighborhood"
+            }, {
+                "cheatName": "weather.start_weather_event weather_Snow_Storm",
+                "cheatResult": "Changes the weather to Blizzard and Freezing"
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Storm_Cool",
+                "cheatResult": "Changes the weather to Thunderstorm and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Storm_Cold",
+                "cheatResult": "Changes the weather to Thunderstorm and Cold"
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Storm_Warm",
+                "cheatResult": "Changes the weather to Thunderstorm and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event Weather_Heatwave",
+                "cheatResult": "Changes the weather to Sunny and Heatwave."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Windy_Burning",
+                "cheatResult": "Changes the weather to Windy and Heatweave."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Snow_Thundersnow",
+                "cheatResult": "Changes the weather to Thundersnow and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Cloudy_DryLightning",
+                "cheatResult": "Changes the weather to Cloudy and Warm and it will show you a beautiful sunlight through the trees."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunsnow",
+                "cheatResult": "Changes the weather to Sunsnow and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Snow_Test",
+                "cheatResult": "Changes the weather to Sunsnow and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Heavy_Cold",
+                "cheatResult": "Changes the weather to Heavy Rain and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Heavy_Cool",
+                "cheatResult": "Changes the weather to Heavy Rain and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Heavy_Warm",
+                "cheatResult": "Changes the weather to Heavy Rain and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event weather_debug_fastrain",
+                "cheatResult": "Changes the weather to Heavy Rain and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Light_Cold",
+                "cheatResult": "Changes the weather to Light Rain and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Light_Cool",
+                "cheatResult": "Changes the weather to Light Rain and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Rain_Light_Warm",
+                "cheatResult": "Changes the weather to Light Rain and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Snow_Heavy_Freezing",
+                "cheatResult": "Changes the weather to Heavy Snow and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Snow_Light_Freezing",
+                "cheatResult": "Changes the weather to Light Snow and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunny_Hot",
+                "cheatResult": "Changes the weather to Sunny and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunny_Warm",
+                "cheatResult": "Changes the weather to Sunny and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunny_Cool",
+                "cheatResult": "Changes the weather to Sunny and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunny_Cold",
+                "cheatResult": "Changes the weather to Sunny and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Sunny_Freezing",
+                "cheatResult": "Changes the weather to Sunny and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_SunShower_Hot",
+                "cheatResult": "Changes the weather to Sun Shower and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_SunShower_Warm",
+                "cheatResult": "Changes the weather to Sun Shower and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event weather_SunShower_Cool",
+                "cheatResult": "Changes the weather to Sun Shower and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Windy_Freezing",
+                "cheatResult": "Changes the weather to Windy and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Windy_Cold",
+                "cheatResult": "Changes the weather to Windy and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Windy_Warm",
+                "cheatResult": "Changes the weather to Windy and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Windy_Hot",
+                "cheatResult": "Changes the weather to Windy and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Cloudy_Hot",
+                "cheatResult": "Changes the weather to Cloudy and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Cloudy_Warm",
+                "cheatResult": "Changes the weather to Cloudy and Warm."
+            }, {
+                "cheatName": "weather.start_weather_event Weather_Cloudy_Cool",
+                "cheatResult": "Changes the weather to Cloudy and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Cloudy_Cold",
+                "cheatResult": "Changes the weather to Cloudy and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_Cloudy_Freezing",
+                "cheatResult": "Changes the weather to Cloudy and Freezing."
+            }, {
+                "cheatName": "weather.start_weather_event weather_PartlyCloudy_Hot",
+                "cheatResult": "Changes the weather to Partly Cloudy and Hot."
+            }, {
+                "cheatName": "weather.start_weather_event weather_PartlyCloudy_Warm",
+                "cheatResult": "Changes the weather to Partly Cloudy and Warm"
+            }, {
+                "cheatName": "weather.start_weather_event weather_PartlyCloudy_Cool",
+                "cheatResult": "Changes the weather to Partly Cloudy and Cool."
+            }, {
+                "cheatName": "weather.start_weather_event weather_PartlyCloudy_Cold",
+                "cheatResult": "Changes the weather to Partly Cloudy and Cold."
+            }, {
+                "cheatName": "weather.start_weather_event weather_PartlyCloudy_Freezing",
+                "cheatResult": "Changes the weather to Partly Cloudy and Freezing."
+            }
+        ]
+    }
+]
