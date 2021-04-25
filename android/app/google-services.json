@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411306557764",
+    "project_id": "sims-4-cheats-69c6a",
+    "storage_bucket": "sims-4-cheats-69c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411306557764:android:7a38dd76813f90a87ed711",
+        "android_client_info": {
+          "package_name": "com.example.sims4_cheats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411306557764-8im3hi2hkq4mi42nqbs7ncrnod1oaq0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sims4_cheats",
+            "certificate_hash": "b09cedb3842065683efe9be0bbf76b80b8f57088"
+          }
+        },
+        {
+          "client_id": "411306557764-cjjqaiufoq7eqv7q11rue3er0iokrq4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONllqiM4_wEQVnYF3muJl96czd3SBXd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411306557764-cjjqaiufoq7eqv7q11rue3er0iokrq4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

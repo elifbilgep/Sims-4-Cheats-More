@@ -1,27 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/models/cheat.dart';
 
-class Home extends StatefulWidget {
+class FetcData extends StatefulWidget {
   @override
-  _HomeState createState() => _HomeState();
+  _FetcDataState createState() => _FetcDataState();
 }
 
-class _HomeState extends State<Home> {
+class _FetcDataState extends State<FetcData> {
   @override
-  void initState() {
-    super.initState();
-    readData();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(),
-      body: Column(
-        children: [Text("Hello")],
-      ),
-    );
-  }
+  Widget build(BuildContext context) {}
 
   Future<List<Cheat>> readData() async {
     try {
