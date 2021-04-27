@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/Pages/home.dart';
-import 'package:sims4_cheats/view/Pages/login.dart';
+import 'package:sims4_cheats/view/Pages/cheats.dart';
 import 'package:sims4_cheats/view/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -48,7 +47,7 @@ class MyApp extends StatelessWidget {
             )),
         primarySwatch: Colors.green,
       ),
-      home: HomePage(),
+      home: Cheats(),
     );
   }
 }

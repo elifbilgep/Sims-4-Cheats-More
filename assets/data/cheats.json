@@ -1139,7 +1139,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Mermaid Cheats",
+        "cheatCategory": "Pregnancy Cheats",
         "cheats": [
             {
                 "cheatName": "sims.get_sim_id_by_name {PlayedSimFirstName} {PlayedSimLastName}",
@@ -1169,7 +1169,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Mermaid Cheats",
+        "cheatCategory": "Death Cheats",
         "cheats": [
             {
                 "cheatName": "sims.add_buff Buff_Mortified",

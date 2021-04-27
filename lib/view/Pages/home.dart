@@ -1,12 +1,8 @@
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/controller/fetchData.dart';
-import 'package:sims4_cheats/models/cheat.dart';
-import 'package:sims4_cheats/view/Widgets/home_card.dart';
-import 'package:sims4_cheats/view/colors.dart';
+import 'package:sims4_cheats/view/components/headlines.dart';
+import 'package:sims4_cheats/view/components/home_card.dart';
 import 'package:sims4_cheats/view/components/sideappbar.dart';
-import 'package:scroll_snap_list/scroll_snap_list.dart';
-import 'package:sims4_cheats/view/widgets/headlines.dart';
+
 
 import '../../const.dart';
 
@@ -16,16 +12,6 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final ScrollController _scrollController = ScrollController();
-  List<int> data = [];
-  int _focusedIndex = 0;
-
-  void _onItemFocus(int index) {
-    setState(() {
-      _focusedIndex = index;
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -99,4 +85,3 @@ class _HomePageState extends State<HomePage> {
     ));
   }
 }
-
