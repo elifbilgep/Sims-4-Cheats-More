@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/components/button.dart';
-import 'package:sims4_cheats/view/components/headline.dart';
-import 'package:sims4_cheats/view/components/headlines.dart';
+import 'package:sims4_cheats/view/Widgets/button.dart';
+import 'package:sims4_cheats/view/Widgets/nameFormField.dart';
 import 'package:sims4_cheats/view/components/image.dart';
-import 'package:sims4_cheats/view/components/nameFormField.dart';
+import 'package:sims4_cheats/view/widgets/headline.dart';
+
 
 import '../colors.dart';
 

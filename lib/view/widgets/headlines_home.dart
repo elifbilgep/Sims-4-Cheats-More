@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/components/headlines.dart';
+import 'package:sims4_cheats/view/widgets/headlines.dart';
 
 class HeadlinesHome extends StatelessWidget {
   const HeadlinesHome({

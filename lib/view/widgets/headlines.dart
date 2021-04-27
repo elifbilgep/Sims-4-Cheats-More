@@ -52,3 +52,16 @@ class Headline4 extends StatelessWidget {
     );
   }
 }
+
+class Headline5 extends StatelessWidget {
+  final String text;
+
+  const Headline5({Key key, this.text}) : super(key: key);
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      text,
+      style: Theme.of(context).textTheme.bodyText2,
+    );
+  }
+}

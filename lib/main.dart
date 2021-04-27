@@ -15,32 +15,37 @@ class MyApp extends StatelessWidget {
       title: 'Projem',
       theme: ThemeData(
         textTheme: GoogleFonts.robotoTextTheme(textTheme).copyWith(
-          headline1: GoogleFonts.roboto(
+            headline1: GoogleFonts.roboto(
+                textStyle: textTheme.bodyText1,
+                fontSize: 75,
+                fontWeight: FontWeight.w700,
+                color: whiteHeadlineColor),
+            headline2: GoogleFonts.roboto(
+                textStyle: textTheme.bodyText1,
+                fontSize: 25,
+                fontWeight: FontWeight.w500,
+                color: whiteHeadlineColor),
+            headline3: GoogleFonts.roboto(
+                textStyle: textTheme.bodyText1,
+                fontSize: 35,
+                fontWeight: FontWeight.w400,
+                color: greenDark1),
+            headline4: GoogleFonts.roboto(
+                textStyle: textTheme.bodyText1,
+                fontSize: 24,
+                fontWeight: FontWeight.w500,
+                color: greenDark2),
+            bodyText1: GoogleFonts.roboto(
+                textStyle: textTheme.bodyText1,
+                fontSize: 18,
+                fontWeight: FontWeight.w400,
+                color: whiteHeadlineColor),
+            bodyText2: GoogleFonts.roboto(
+              color: whiteHeadlineColor,
               textStyle: textTheme.bodyText1,
-              fontSize: 75,
-              fontWeight: FontWeight.w700,
-              color: whiteHeadlineColor),
-          headline2: GoogleFonts.roboto(
-              textStyle: textTheme.bodyText1,
-              fontSize: 25,
-              fontWeight: FontWeight.w500,
-              color: whiteHeadlineColor),
-          headline3: GoogleFonts.roboto(
-              textStyle: textTheme.bodyText1,
-              fontSize: 35,
-              fontWeight: FontWeight.w400,
-              color: greenDark1),
-          headline4: GoogleFonts.roboto(
-              textStyle: textTheme.bodyText1,
-              fontSize: 24,
-              fontWeight: FontWeight.w500,
-              color: greenDark2),
-          bodyText1: GoogleFonts.roboto(
-              textStyle: textTheme.bodyText1,
-              fontSize: 18,
-              fontWeight: FontWeight.w400,
-              color: whiteHeadlineColor),
-        ),
+              fontSize: 23,
+              fontWeight: FontWeight.w300,
+            )),
         primarySwatch: Colors.green,
       ),
       home: HomePage(),

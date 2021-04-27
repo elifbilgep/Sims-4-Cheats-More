@@ -1,17 +1,21 @@
 import 'package:flutter/material.dart';
 
+import 'headlines.dart';
+
 class HomeCard extends StatelessWidget {
-  final String photoUrl;
   const HomeCard({
     Key key,
     this.photoUrl,
+    this.text,
   }) : super(key: key);
 
+  final photoUrl;
+  final text;
   @override
   Widget build(BuildContext context) {
     return Container(
       decoration:
-          BoxDecoration(borderRadius: BorderRadius.circular(30), boxShadow: [
+          BoxDecoration(borderRadius: BorderRadius.circular(50), boxShadow: [
         BoxShadow(
             color: Colors.grey.shade600,
             blurRadius: 10,
@@ -19,17 +23,24 @@ class HomeCard extends StatelessWidget {
             offset: Offset(0.0, 5.0))
       ]),
       height: 300,
-      width: 180,
+      width: 240,
       child: Stack(
         fit: StackFit.expand,
         children: [
           ClipRRect(
-            borderRadius: BorderRadius.circular(20),
+            borderRadius: BorderRadius.circular(50),
             child: Image.asset(
               photoUrl,
               fit: BoxFit.cover,
             ),
           ),
+          Positioned(
+            left: 20,
+            top: 30,
+            child: Headline5(
+              text: text,
+            ),
+          )
         ],
       ),
     );
