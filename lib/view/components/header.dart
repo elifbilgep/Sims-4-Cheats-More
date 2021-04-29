@@ -31,26 +31,13 @@ class Header extends StatelessWidget {
               color: whiteHeadlineColor,
             ),
             SizedBox(
-              width: 25,
-            ),
-            Image.asset(
-              miniPlumbob,
-              height: 70,
-              width: 40,
-            ),
-            SizedBox(
-              width: 25,
+              width: MediaQuery.of(context).size.width * 0.15,
             ),
             Headline6(
               text: text,
             ),
             SizedBox(
               width: 25,
-            ),
-            Image.asset(
-              miniPlumbob,
-              height: 70,
-              width: 40,
             ),
           ],
         ),

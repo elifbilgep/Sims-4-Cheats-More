@@ -5,9 +5,9 @@ class Cheat {
   String cheatCategory;
   List cheats;
 
-  Cheat.fromJson(Map<String,dynamic> json) :
-    category = json["category"],
-    cheatCategory = json["cheatsCategory"],
-    cheats = List<Cheats>.from(json["cheats"].map((it)=> Cheats.frmJson(it)));
-  
+  Cheat.fromJson(Map<String, dynamic> json)
+      : category = json["category"],
+        cheatCategory = json["cheatCategory"],
+        cheats =
+            List<Cheats>.from(json["cheats"].map((it) => Cheats.fromJson(it)));
 }

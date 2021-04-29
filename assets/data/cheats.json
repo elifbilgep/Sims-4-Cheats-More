@@ -65,7 +65,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Skill Cheats",
+        "cheatCategory": "Skill",
         "cheats": [
             {
                 "cheatName": "stats.set_skill_level Major_Acting 10",
@@ -247,7 +247,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Child Skill Cheats",
+        "cheatCategory": "Child Skill",
         "cheats": [
             {
                 "cheatName": "stats.set_skill_level Skill_Child_Creativity 10",
@@ -277,7 +277,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Toddler Skill Cheats",
+        "cheatCategory": "Toddler Skill",
         "cheats": [
             {
                 "cheatName": "stats.set_skill_level Skill_Toddler_Communication 5",
@@ -303,7 +303,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Career Promotion Cheats",
+        "cheatCategory": "Career Promotion",
         "cheats": [
             {
                 "cheatName": "careers.promote Activist",
@@ -425,7 +425,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Part Time Jobs Promotion Cheats",
+        "cheatCategory": "Part Time Jobs Promotion",
         "cheats": [
             {
                 "cheatName": "careers.promote PartTime_Babysitter",
@@ -467,7 +467,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Teen Jobs Promotion Cheats",
+        "cheatCategory": "Teen Jobs Promotion",
         "cheats": [
             {
                 "cheatName": "careers.promote Teen_Babysitter",
@@ -501,7 +501,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Kids School/Job Cheats",
+        "cheatCategory": "Kids School/Job",
         "cheats": [
             {
                 "cheatName": "careers.promote Gradeschool",
@@ -523,7 +523,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Fill Need Cheats",
+        "cheatCategory": "Fill Need",
         "cheats": [
             {
                 "cheatName": "Shift + click on Sim > Cheat Need > Make Happy",
@@ -569,7 +569,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Death Cheats",
+        "cheatCategory": "Death",
         "cheats": [
             {
                 "cheatName": "traits.equip_trait Vampire_Sun",
@@ -647,7 +647,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Relationship/Social Cheats",
+        "cheatCategory": "Relationship/Social",
         "cheats": [
             {
                 "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} 100 LTR_Friendship_Main",
@@ -689,7 +689,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Reward Point Cheats",
+        "cheatCategory": "Reward Point",
         "cheats": [
             {
                 "cheatName": "sims.give_satisfaction_points {number}",
@@ -703,7 +703,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Trait Cheats",
+        "cheatCategory": "Trait",
         "cheats": [
             {
                 "cheatName": "traits.equip_trait {TraitNameNoSpaces}",
@@ -721,7 +721,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Technical Cheats",
+        "cheatCategory": "Technical",
         "cheats": [
             {
                 "cheatName": "fullscreen",
@@ -767,7 +767,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Get to Work – Perk Points Cheats",
+        "cheatCategory": "Get to Work-Perk Point",
         "cheats": [
             {
                 "cheatName": "bucks.unlock_perk StorePlacard_1 true",
@@ -853,7 +853,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Get to Work – Retail Skill Cheats",
+        "cheatCategory": "Get to Work – Retail Skill",
         "cheats": [
             {
                 "cheatName": "stats.set_skill_level retail_workethic 5",
@@ -871,7 +871,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Dine Out – Perk Points Cheats",
+        "cheatCategory": "Dine Out – Perk Points",
         "cheats": [
             {
                 "cheatName": "bucks.unlock_perk RecommendDishSocial true",
@@ -949,7 +949,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Vampires – Powers, Rank, Power Points",
+        "cheatCategory": "Vampires",
         "cheats": [
             {
                 "cheatName": "stats.set_stat commodity_BecomingVampire 2160",
@@ -1011,7 +1011,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Parenthood – Character Value Cheats",
+        "cheatCategory": "Parenthood - Character",
         "cheats": [
             {
                 "cheatName": "stats.set_stat lifeSkillStatistic_Empathy 100",
@@ -1037,7 +1037,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Cats & Dogs – Perk Points Cheats for the Vet Clinic",
+        "cheatCategory": "Cats & Dogs",
         "cheats": [
             {
                 "cheatName": "bucks.unlock_perk AdditionalVet_1 true",
@@ -1083,7 +1083,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Mermaid Cheats",
+        "cheatCategory": "Mermaid",
         "cheats": [
             {
                 "cheatName": "raits.equip_trait trait_OccultMermaid",
@@ -1097,7 +1097,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Moodlet & Emotion Cheats",
+        "cheatCategory": "Moodlet & Emotion ",
         "cheats": [
             {
                 "cheatName": "sims.add_buff CoughSneeze_severe",
@@ -1139,7 +1139,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Pregnancy Cheats",
+        "cheatCategory": "Pregnancy",
         "cheats": [
             {
                 "cheatName": "sims.get_sim_id_by_name {PlayedSimFirstName} {PlayedSimLastName}",
@@ -1169,7 +1169,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Death Cheats",
+        "cheatCategory": "Death with Ghots",
         "cheats": [
             {
                 "cheatName": "sims.add_buff Buff_Mortified",
@@ -1203,7 +1203,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons – Change Seasons",
+        "cheatCategory": "Seasons Change Seasons",
         "cheats": [
             {
                 "cheatName": "seasons.set_season <0>",
@@ -1241,138 +1241,181 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons – Change Weather",
+        "cheatCategory": "Seasons Change Weather",
         "cheats": [
             {
                 "cheatName": "Sims.get_sim_id_by_name {Firstname} {Lastname}",
                 "cheatResult": "Retrieve SimsID"
-            }, {
+            },
+            {
                 "cheatName": "weather.lightning_strike_object {simID}",
                 "cheatResult": "This will trigger a lightning strike on a sim of your choosing."
-            }, {
+            },
+            {
                 "cheatName": "weather.summon_lightning_strike",
                 "cheatResult": "This will trigger a random lightning strike in your neighborhood"
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Snow_Storm",
                 "cheatResult": "Changes the weather to Blizzard and Freezing"
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Storm_Cool",
                 "cheatResult": "Changes the weather to Thunderstorm and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Storm_Cold",
                 "cheatResult": "Changes the weather to Thunderstorm and Cold"
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Storm_Warm",
                 "cheatResult": "Changes the weather to Thunderstorm and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event Weather_Heatwave",
                 "cheatResult": "Changes the weather to Sunny and Heatwave."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Windy_Burning",
                 "cheatResult": "Changes the weather to Windy and Heatweave."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Snow_Thundersnow",
                 "cheatResult": "Changes the weather to Thundersnow and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Cloudy_DryLightning",
                 "cheatResult": "Changes the weather to Cloudy and Warm and it will show you a beautiful sunlight through the trees."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunsnow",
                 "cheatResult": "Changes the weather to Sunsnow and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Snow_Test",
                 "cheatResult": "Changes the weather to Sunsnow and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Heavy_Cold",
                 "cheatResult": "Changes the weather to Heavy Rain and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Heavy_Cool",
                 "cheatResult": "Changes the weather to Heavy Rain and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Heavy_Warm",
                 "cheatResult": "Changes the weather to Heavy Rain and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_debug_fastrain",
                 "cheatResult": "Changes the weather to Heavy Rain and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Light_Cold",
                 "cheatResult": "Changes the weather to Light Rain and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Light_Cool",
                 "cheatResult": "Changes the weather to Light Rain and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Rain_Light_Warm",
                 "cheatResult": "Changes the weather to Light Rain and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Snow_Heavy_Freezing",
                 "cheatResult": "Changes the weather to Heavy Snow and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Snow_Light_Freezing",
                 "cheatResult": "Changes the weather to Light Snow and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunny_Hot",
                 "cheatResult": "Changes the weather to Sunny and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunny_Warm",
                 "cheatResult": "Changes the weather to Sunny and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunny_Cool",
                 "cheatResult": "Changes the weather to Sunny and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunny_Cold",
                 "cheatResult": "Changes the weather to Sunny and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Sunny_Freezing",
                 "cheatResult": "Changes the weather to Sunny and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_SunShower_Hot",
                 "cheatResult": "Changes the weather to Sun Shower and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_SunShower_Warm",
                 "cheatResult": "Changes the weather to Sun Shower and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_SunShower_Cool",
                 "cheatResult": "Changes the weather to Sun Shower and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Windy_Freezing",
                 "cheatResult": "Changes the weather to Windy and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Windy_Cold",
                 "cheatResult": "Changes the weather to Windy and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Windy_Warm",
                 "cheatResult": "Changes the weather to Windy and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Windy_Hot",
                 "cheatResult": "Changes the weather to Windy and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Cloudy_Hot",
                 "cheatResult": "Changes the weather to Cloudy and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Cloudy_Warm",
                 "cheatResult": "Changes the weather to Cloudy and Warm."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event Weather_Cloudy_Cool",
                 "cheatResult": "Changes the weather to Cloudy and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Cloudy_Cold",
                 "cheatResult": "Changes the weather to Cloudy and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_Cloudy_Freezing",
                 "cheatResult": "Changes the weather to Cloudy and Freezing."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_PartlyCloudy_Hot",
                 "cheatResult": "Changes the weather to Partly Cloudy and Hot."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_PartlyCloudy_Warm",
                 "cheatResult": "Changes the weather to Partly Cloudy and Warm"
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_PartlyCloudy_Cool",
                 "cheatResult": "Changes the weather to Partly Cloudy and Cool."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_PartlyCloudy_Cold",
                 "cheatResult": "Changes the weather to Partly Cloudy and Cold."
-            }, {
+            },
+            {
                 "cheatName": "weather.start_weather_event weather_PartlyCloudy_Freezing",
                 "cheatResult": "Changes the weather to Partly Cloudy and Freezing."
             }

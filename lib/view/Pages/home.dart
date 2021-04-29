@@ -52,28 +52,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     Flexible(
                       flex: 10,
-                      child: Container(
-                        height: 350,
-                        width: MediaQuery.of(context).size.width -
-                            MediaQuery.of(context).size.width * 0.2,
-                        child: ListView(
-                          clipBehavior: Clip.none,
-                          scrollDirection: Axis.horizontal,
-                          children: [
-                            HomeCard(
-                              photoUrl: homeCardsPhotos[0],
-                              text: "Cheats",
-                            ),
-                            SizedBox(
-                              width: 20,
-                            ),
-                            HomeCard(
-                              photoUrl: homeCardsPhotos[1],
-                              text: "Mods",
-                            ),
-                          ],
-                        ),
-                      ),
+                      child: Cards(),
                     )
                   ],
                 ),
@@ -83,5 +62,37 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
     ));
+  }
+}
+
+class Cards extends StatelessWidget {
+  const Cards({
+    Key key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      height: 350,
+      width: MediaQuery.of(context).size.width -
+          MediaQuery.of(context).size.width * 0.2,
+      child: ListView(
+        clipBehavior: Clip.none,
+        scrollDirection: Axis.horizontal,
+        children: [
+          HomeCard(
+            photoUrl: homeCardsPhotos[0],
+            text: "Cheats",
+          ),
+          SizedBox(
+            width: 20,
+          ),
+          HomeCard(
+            photoUrl: homeCardsPhotos[1],
+            text: "Mods",
+          ),
+        ],
+      ),
+    );
   }
 }

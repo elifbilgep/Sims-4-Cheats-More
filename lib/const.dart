@@ -19,9 +19,11 @@ List cheatsCategoryPhotos = [
   "child_skill.jpg",
   "toddler_skill.png",
   "career.jpg",
-  "parttime.jpg"
+  "parttime.jpg",
   "teen_job.png",
+  "kid_school.png",
   "needs.jpg",
+  "ghosts.png",
   "relationships.jpg",
   "reward_points.jpg",
   "trait.png",
@@ -36,5 +38,7 @@ List cheatsCategoryPhotos = [
   "moodlet.jpg",
   "pregnant.jpg",
   "death.jpg",
-  "seasons.jpg"
+  "seasons.jpg",
+  "seasons_weather.png"
+
 ];
