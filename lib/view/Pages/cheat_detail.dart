@@ -2,81 +2,79 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
 
-class CheatDetails extends StatelessWidget {
-  final cheats;
+import '../../const.dart';
+import '../colors.dart';
 
-  const CheatDetails({Key key, this.cheats}) : super(key: key);
+class CheatDetails extends StatelessWidget {
+  final indexNO;
+  final cheats;
+  final cheatCategoryName;
+  const CheatDetails(
+      {Key key, this.cheats, this.cheatCategoryName, this.indexNO})
+      : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: NotificationListener<OverscrollIndicatorNotification>(
-        onNotification: (OverscrollIndicatorNotification overScroll) {
-          overScroll.disallowGlow();
-          return false;
-        },
-        child: SingleChildScrollView(
-          child: FutureBuilder(
-            future: Future.delayed(Duration(seconds: 1)),
-            builder: (context, snapshot) {
-              if (snapshot.data == null) {
-                return Center(child: CircularProgressIndicator());
-              }
-
-              return CustomScrollView(
-                slivers: [
-                  SliverAppBar(
-                    expandedHeight: 150,
-                    floating: false,
-                    flexibleSpace: FlexibleSpaceBar(
-                      title: Headline6(text: "Cheat Categories"),
-                      centerTitle: true,
-                    ),
-                  ),
-                  SliverPadding(
-                    padding: EdgeInsets.only(left: 5, right: 5, top: 5),
-                    sliver: SliverGrid(
-                      gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
-                        maxCrossAxisExtent: 200.0,
-                        mainAxisSpacing: 8.0,
-                        crossAxisSpacing: 8.0,
-                        childAspectRatio: 3 / 2,
-                      ),
-                      delegate: SliverChildBuilderDelegate(
-                        (BuildContext context, int index) {
-                          return Container(
-                            decoration: BoxDecoration(
-                              color: Colors.pink,
-                            ),
-                            child: Padding(
-                              padding:
-                                  const EdgeInsets.only(right: 10.0, bottom: 5),
-                              child: Row(
-                                crossAxisAlignment: CrossAxisAlignment.end,
-                                mainAxisAlignment: MainAxisAlignment.end,
-                                children: [
-                                  Text(
-                                    "",
-                                    style: Theme.of(context)
-                                        .textTheme
-                                        .bodyText1
-                                        .copyWith(
-                                            fontSize: 15,
-                                            fontWeight: FontWeight.bold),
-                                  )
-                                ],
-                              ),
-                            ),
-                          );
-                        },
-                        childCount: 27,
-                      ),
-                    ),
-                  )
-                ],
-              );
+    return SafeArea(
+      child: Scaffold(
+        body: NotificationListener<OverscrollIndicatorNotification>(
+            onNotification: (OverscrollIndicatorNotification overScroll) {
+              overScroll.disallowGlow();
+              return false;
             },
-          ),
-        ),
+            child: CustomScrollView(
+              slivers: [
+                SliverAppBar(
+                  backgroundColor: Colors.green.shade300,
+                  expandedHeight: 200,
+                  floating: false,
+                  flexibleSpace: FlexibleSpaceBar(
+                    background: Padding(
+                      padding:
+                          const EdgeInsets.only(top: 10.0, left: 10, right: 10),
+                      child: Container(
+                        child: Align(
+                          alignment: Alignment.bottomRight,
+                          child: Image.asset(
+                            "assets/images/${appBarPhotos[indexNO]}",
+                          ),
+                        ),
+                      ),
+                    ),
+                    titlePadding: EdgeInsets.all(20),
+                    title: Headline6(text: cheatCategoryName),
+                  ),
+                ),
+                SliverList(
+                  delegate: SliverChildBuilderDelegate((context, index) {
+                    return Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Card(
+                          child: ListTile(
+                            title: Text(
+                              cheats[index].cheatName.toString(),
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .bodyText1
+                                  .copyWith(
+                                      color: Colors.green,
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.bold),
+                            ),
+                            subtitle: Text(
+                              cheats[index].cheatResult.toString(),
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .bodyText1
+                                  .copyWith(
+                                    color: Colors.grey.shade700,
+                                  ),
+                            ),
+                          ),
+                        ));
+                  }, childCount: cheats.length),
+                ),
+              ],
+            )),
       ),
     );
   }

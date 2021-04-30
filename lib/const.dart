@@ -40,5 +40,34 @@ List cheatsCategoryPhotos = [
   "death.jpg",
   "seasons.jpg",
   "seasons_weather.png"
+];
 
+List appBarPhotos = [
+  "money_appBar.png",
+  "build_appBar.png",
+  "skill_appBar.png",
+  "child_skill_appBar.png",
+  "toddler_appBar.png",
+  "get_to_work_appBar.png",
+  "coffe_appBar.png",
+  "teen_appBar.png",
+  "child_skill_appBar.png",
+  "need_appBar..png",
+  "ghosts_appBar.png",
+  "romance_appBar.png",
+  "reward_appBar.png",
+  "trait_appBar.png",
+  "tech_appBar.png",
+  "get_to_work_appBar.png",
+  "retail_appBar.png",
+  "dine_out_appBar.png",
+  "vampires_appbBar.png",
+  "child_skill_appBar.png",
+  "pets_appBar.png",
+  "mermaid_appBar.png",
+  "mood_appBar.png",
+  "pregnant_appBar.png",
+  "ghosts_appBar.png",
+  "seasons_appBar.png",
+  "seasons_appBar.png"
 ];

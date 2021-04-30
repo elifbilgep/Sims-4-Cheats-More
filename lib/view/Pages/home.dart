@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:sims4_cheats/view/Pages/cheats.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
 import 'package:sims4_cheats/view/components/home_card.dart';
 import 'package:sims4_cheats/view/components/sideappbar.dart';
 
-
 import '../../const.dart';
 
 class HomePage extends StatefulWidget {
+  final String name;
+
+  const HomePage({Key key, this.name}) : super(key: key);
   @override
   _HomePageState createState() => _HomePageState();
 }
@@ -40,7 +43,7 @@ class _HomePageState extends State<HomePage> {
                       flex: 1,
                       fit: FlexFit.tight,
                       child: Headline3(
-                        text: "Hi Elif",
+                        text: "Hi " + widget.name + "!",
                       ),
                     ),
                     Flexible(
@@ -80,9 +83,15 @@ class Cards extends StatelessWidget {
         clipBehavior: Clip.none,
         scrollDirection: Axis.horizontal,
         children: [
-          HomeCard(
-            photoUrl: homeCardsPhotos[0],
-            text: "Cheats",
+          GestureDetector(
+            onTap: () {
+              return Navigator.push(
+                  context, MaterialPageRoute(builder: (context) => Cheats()));
+            },
+            child: HomeCard(
+              photoUrl: homeCardsPhotos[0],
+              text: "Cheats",
+            ),
           ),
           SizedBox(
             width: 20,

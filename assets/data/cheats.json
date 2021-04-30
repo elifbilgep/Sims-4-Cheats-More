@@ -647,7 +647,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Relationship/Social",
+        "cheatCategory": "Relationship",
         "cheats": [
             {
                 "cheatName": "modifyrelationship {PlayedSimFirstName} {PlayedSimLastName} {TargetSimFirstName} {TargetSimLastName} 100 LTR_Friendship_Main",
@@ -871,7 +871,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Dine Out – Perk Points",
+        "cheatCategory": "Dine Out\nPerk Points",
         "cheats": [
             {
                 "cheatName": "bucks.unlock_perk RecommendDishSocial true",
@@ -1203,7 +1203,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons Change Seasons",
+        "cheatCategory": "Seasons\nChange Seasons",
         "cheats": [
             {
                 "cheatName": "seasons.set_season <0>",
@@ -1241,7 +1241,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons Change Weather",
+        "cheatCategory": "Seasons\nChange Weather",
         "cheats": [
             {
                 "cheatName": "Sims.get_sim_id_by_name {Firstname} {Lastname}",

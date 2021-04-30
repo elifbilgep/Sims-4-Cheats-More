@@ -3,8 +3,9 @@ import 'package:flutter/material.dart';
 import '../colors.dart';
 
 class SideAppBar extends StatelessWidget {
+  final textName;
   const SideAppBar({
-    Key key,
+    Key key, this.textName,
   }) : super(key: key);
 
   @override
@@ -25,7 +26,7 @@ class SideAppBar extends StatelessWidget {
             size: 40,
           ),
           Icon(
-            Icons.favorite,
+            Icons.star_rate,
             color: greenLight4,
             size: 30,
           ),
