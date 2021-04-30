@@ -5,7 +5,8 @@ import '../colors.dart';
 class SideAppBar extends StatelessWidget {
   final textName;
   const SideAppBar({
-    Key key, this.textName,
+    Key key,
+    this.textName,
   }) : super(key: key);
 
   @override
@@ -18,7 +19,7 @@ class SideAppBar extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
           SizedBox(
-            height: 10,
+            height: 30,
           ),
           Icon(
             Icons.search,
@@ -30,13 +31,16 @@ class SideAppBar extends StatelessWidget {
             color: greenLight4,
             size: 30,
           ),
-          Icon(
-            Icons.share,
-            color: greenLight4,
-            size: 30,
+          InkWell(
+            onTap: () {},
+            child: Icon(
+              Icons.share,
+              color: greenLight4,
+              size: 30,
+            ),
           ),
           SizedBox(
-            height: 420,
+            height: 370,
           )
         ],
       ),

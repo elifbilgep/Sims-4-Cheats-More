@@ -36,7 +36,7 @@ class HomeCard extends StatelessWidget {
           ),
           Positioned(
             left: 20,
-            top: 30,
+            top: 20,
             child: Headline5(
               text: text,
             ),

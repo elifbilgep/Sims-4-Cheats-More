@@ -39,6 +39,9 @@ class _HomePageState extends State<HomePage> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
+                    SizedBox(
+                      height: 20,
+                    ),
                     Flexible(
                       flex: 1,
                       fit: FlexFit.tight,
@@ -76,7 +79,7 @@ class Cards extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 350,
+      height: 400,
       width: MediaQuery.of(context).size.width -
           MediaQuery.of(context).size.width * 0.2,
       child: ListView(

@@ -1,6 +1,4 @@
 import 'package:flutter/cupertino.dart';
-import 'package:sims4_cheats/view/Pages/home.dart';
-
 String plumbobAssets = "assets/images/plumbobb_melted.png";
 
 List homeCardsPhotos = [
@@ -61,7 +59,7 @@ List appBarPhotos = [
   "get_to_work_appBar.png",
   "retail_appBar.png",
   "dine_out_appBar.png",
-  "vampires_appbBar.png",
+  "vampires_appBar.png",
   "child_skill_appBar.png",
   "pets_appBar.png",
   "mermaid_appBar.png",

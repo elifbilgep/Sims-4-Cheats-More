@@ -1,0 +1,134 @@
+[
+    {
+        "modCategory": "Most Popular",
+        "mods": [
+            {
+                "modName": "MC Command Center",
+                "modLink": "https://deaderpool-mccc.com/#/",
+                "modDescription": "For mod fans who really want to get into the nitty-gritty details of playing The Sims then check out the MC Command Centre mega-mod by Deaderpool. This mod is a collection of smaller mods that give you the power to make small adjustments and tweaks to how sims live their lives. Don’t like a particular item of clothing? You can blacklist it. Is an NPC interaction annoying you? Take control of that NPC and change it. This mod also comes with story-progression mechanics which has been dearly missed since The Sims 3.",
+                "modPhoto": "mc.jpg"
+            },
+            {
+                "modName": "Go to School",
+                "modLink": "https://zerbu.tumblr.com/post/160319209200/the-sims-4-go-to-school-mod-pack-v4",
+                "modDescription": "If you've ever wanted to go to school with your children and teen Sims, here's your chance. The Go to School mod allows you to follow your children or teens to elementary or high school. It works similar to the active careers brought into the game with the GTW EP; as your child/teen Sim, you have to complete a number of tasks each day (like painting, socializing with classmates, playing instruments, etc.) to get a gold medal at the end of the day",
+                "modPhoto": "go_to_school.png"
+            },
+            {
+                "modName": "Custom Food Interactions",
+                "modLink": "https://modthesims.info/d/571010",
+                "modDescription": "Custom Food Interactions is the mod you need to add new foods to your game! With it, you can download a plethora of choices, like ramen or udon, mini pizzas, soups, dumplings or breads.",
+                "modPhoto": "cook.jpg"
+            },
+            {
+                "modName": "Playable Pets Mod",
+                "modLink": "https://sims4studio.com/post/89311",
+                "modDescription": "Are you frustrated that your cats and dogs aren't playable in The Sims 4? Well, you can download The Sims 4 Studio's Playable Pets Mod and play as your cat and dog! Of course, you'll need The Sims 4 Cats & Dogs expansion pack for this to work, but this mod unlocks the ability to select your cat or dog as a playable character in the game",
+                "modPhoto": "pets.png"
+            },
+            {
+                "modName": "Slice of Life",
+                "modLink": "https://www.kawaiistaciemods.com/post/slice-of-life-mod",
+                "modDescription": "This mod adds more personality, realism, interactions, social interactions, parties, and more drama to your game.",
+                "modPhoto": "slice_of_life.png"
+            },
+            {
+                "modName": "Height Slider",
+                "modLink": "https://modthesims.info/download.php?t=559329",
+                "modDescription": "Speaking of body image, most Sims of a certain age seem to have a standard height, with little more room for customization. You can remedy this with the Height Slider mod, allowing you to change the height of a Sim to match your preferences, or perhaps make them proportional with the massive legs you gave them with the previous mod.",
+                "modPhoto": "height.jpg"
+            }
+        ]
+    },
+    {
+        "modCategory": "Terrifying Mods",
+        "mods": [
+            {
+                "modName": "Become a Superhero",
+                "modLink": "https://www.sacrificialmods.com/armageddon-mod-news.html",
+                "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
+                "modPhoto": "superhero.jpg"
+            },
+            {
+                "modName": "Torture & Chaos ",
+                "modLink": "http://www.sacrificialmods.com/downloads.html",
+                "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
+                "modPhoto": "superhero.jpg"
+            },
+            {
+                "modName": "Experience The Apocalypse",
+                "modLink": "http://www.sacrificialmods.com/downloads.html",
+                "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
+                "modPhoto": "torture.jpg"
+            },
+            {
+                "modName": "Gaze Into A Cursed Painting",
+                "modLink": "http://www.sacrificialmods.com/downloads.html",
+                "modDescription": "Supernatural and scary horror features are another aspect that seems to be lacking from the game itself, but rest assured, there are countless options for those who want their Sims to live in a literal nightmare. The Cursed Paintings mod introduce a whole array of mysterious works of art that look like they're straight from an Horror st. P. Lovecraft hory.",
+                "modPhoto": "painting.jpg"
+            },
+            {
+                "modName": "Life Drama",
+                "modLink": "https://sacrificialmods.com/life-s-drama-news.html",
+                "modDescription": "Are the peaceful neighborhoods of Willow Creek driving players nuts? Would one day of sheer chaos be enough to bring balance back to the disgustingly happy-go-lucky life that every townie seems to live? Thankfully, there's a mod that fixes this with one go, to a point where no day is without its own unique excitement.\nThe Life's Drama mod introduces a bunch of new situations which the active household Sims can witness. Ranging from breakups to a pregnant townie suddenly going into labor, it'll definitely give the right amount of spice to any neighborhood.",
+                "modPhoto": "painting.jpg"
+            }
+        ]
+    },
+    {
+        "modCategory": "Romance Mods",
+        "mods": [
+            {
+                "modName": "Autonomous Proposals Romance Mod",
+                "modLink": "https://polarbearsims.com/2017/11/02/sims-4-autonomous-proposals-breakups-mod/",
+                "modDescription": "If you want to add autonomous proposals to the game you will just need to follow ",
+                "modPhoto": "superhero.jpg"
+            },{
+                "modName": "Baby Maker Trait",
+                "modLink": "https://modthesims.info/d/596010/baby-maker-trait.html",
+                "modDescription": "This trait makes your Sim a true baby machine.",
+                "modPhoto": "babyMaker.png"
+            },
+            {
+                "modName": "Experience The Apocalypse",
+                "modLink": "http://www.sacrificialmods.com/downloads.html",
+                "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
+                "modPhoto": "torture.jpg"
+            },{
+                "modName": "Kiss Neck For Adults Mod",
+                "modLink": "https://modthesims.info/d/576161/kiss-neck-for-adults-1-19.html",
+                "modDescription": "Now, the list definitely needs to cover this simple but awesome mod by Shimrod101, which enables “Kiss Neck” as a romance interaction for young adults, adults, and elders. ",
+                "modPhoto": "painting.jpg"
+            },
+            {
+                "modName": "Better Romance Mod",
+                "modLink": "https://modthesims.info/d/619542/update-16-better-romance.html",
+                "modDescription": "Let us continue with a piece by Simler90. The romantic interactions in the base game are rather simplistic. This super comprehensive mod improves the gameplay substantially in various aspects, making romances much more realistic.",
+                "modPhoto": "betterRomance.jpg"
+            },{
+                "modName": "Romantic Skygaze Mod",
+                "modLink": "https://modthesims.info/d/588606/ts4-romantic-skygaze.html",
+                "modDescription": "This extension – which is adding new interactions in the romantic category – was created by Dramatic-gamer, who did a really cool job with this mod. ",
+                "modPhoto": "skygaze.jpg"
+            },
+            {
+                "modName": "Stop Random Flirting",
+                "modLink": "https://modthesims.info/d/579848/stop-random-flirting.html",
+                "modDescription": "With this mod your sims will not start randomly flirting with everyone when they are in a flirty mood. After having installed this modification, your sims need to be in a romantic conversation or romantic relationship to flirt. ",
+                "modPhoto": "noFlirting.jpg"
+            },{
+                "modName": "Better Embrace",
+                "modLink": "https://modthesims.info/d/600693/quot-embrace-quot-interaction-improved.html",
+                "modDescription": "This mod is a default replacement for embrace animation. It will replace and improvise the romance animation itself. Now they're all look so much better, longer & loving with this mod ",
+                "modPhoto": "embrace.jpg"
+            },{
+                "modName": "Dating App",
+                "modLink": "https://littlemssam.tumblr.com/post/175413426238/simda-dating-app-simda-dating-app-can-help-you",
+                "modDescription": "This mod’s name is “SimDa” and it will change your sim’s opinion on dating. You can use the phone to access the dating app, and you have three choices. Specific dates, blind dates and one night stands.",
+                "modPhoto": "datingApp.jpg"
+            }
+
+          
+        ]
+    }
+]

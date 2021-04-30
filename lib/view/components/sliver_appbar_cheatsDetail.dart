@@ -22,12 +22,16 @@ class SliverAppBarCheatDetails extends StatelessWidget {
       floating: false,
       flexibleSpace: FlexibleSpaceBar(
         background: Padding(
-          padding: const EdgeInsets.only(top: 10.0, left: 10),
+          padding: const EdgeInsets.only(
+            top: 10.0,
+            left: 10,
+          ),
           child: Container(
             child: Align(
               alignment: Alignment.bottomRight,
               child: Image.asset(
                 "assets/images/${appBarPhotos[indexNO]}",
+                fit: BoxFit.cover,
               ),
             ),
           ),
