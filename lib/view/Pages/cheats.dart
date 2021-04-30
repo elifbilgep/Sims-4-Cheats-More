@@ -1,9 +1,5 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/controller/fetch_category_names.dart';
-import 'package:sims4_cheats/models/cheat.dart';
-import 'package:sims4_cheats/view/components/header.dart';
+import 'package:sims4_cheats/controller/fetch_data.dart';
 import 'package:provider/provider.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
 
@@ -11,9 +7,6 @@ import '../../const.dart';
 
 class Cheats extends StatelessWidget {
   List cheatCategoryList = [];
-  List cheats = [];
-  List cheatsNames = [];
-  List cheatResult = [];
 
   @override
   Widget build(BuildContext context) {
@@ -53,32 +46,34 @@ class Cheats extends StatelessWidget {
                     ),
                     delegate: SliverChildBuilderDelegate(
                       (BuildContext context, int index) {
-                        return Container(
-                          decoration: BoxDecoration(
-                            image: DecorationImage(
-                                image: AssetImage(
-                                  "assets/images/${cheatsCategoryPhotos[index]}",
-                                ),
-                                fit: BoxFit.cover),
-                            color: Colors.pink,
-                          ),
-                          child: Padding(
-                            padding:
-                                const EdgeInsets.only(right: 10.0, bottom: 5),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.end,
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Text(
-                                  cheatCategoryList[index],
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .bodyText1
-                                      .copyWith(
-                                          fontSize: 15,
-                                          fontWeight: FontWeight.bold),
-                                )
-                              ],
+                        return GestureDetector(
+                          child: Container(
+                            decoration: BoxDecoration(
+                              image: DecorationImage(
+                                  image: AssetImage(
+                                    "assets/images/${cheatsCategoryPhotos[index]}",
+                                  ),
+                                  fit: BoxFit.cover),
+                              color: Colors.pink,
+                            ),
+                            child: Padding(
+                              padding:
+                                  const EdgeInsets.only(right: 10.0, bottom: 5),
+                              child: Row(
+                                crossAxisAlignment: CrossAxisAlignment.end,
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  Text(
+                                    cheatCategoryList[index].cheatCategory,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyText1
+                                        .copyWith(
+                                            fontSize: 15,
+                                            fontWeight: FontWeight.bold),
+                                  )
+                                ],
+                              ),
                             ),
                           ),
                         );
