@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/controller/fetch_data.dart';
 import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
-import 'package:sims4_cheats/view/Pages/cheats.dart';
+import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
 import 'package:sims4_cheats/view/Pages/home.dart';
 import 'package:sims4_cheats/view/Pages/login.dart';
 import 'package:sims4_cheats/view/colors.dart';

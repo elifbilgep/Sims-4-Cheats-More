@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/Pages/cheats.dart';
+import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
 import 'package:sims4_cheats/view/components/home_card.dart';
 import 'package:sims4_cheats/view/components/sideappbar.dart';

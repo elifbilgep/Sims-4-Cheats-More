@@ -601,7 +601,7 @@
             },
             {
                 "cheatName": "traits.remove_trait Ghost_Frozen",
-                "cheatResult": "FTurn your Sim back to life if they where a ghost who died by Freezing."
+                "cheatResult": "Turn your Sim back to life if they where a ghost who died by Freezing."
             },
             {
                 "cheatName": "traits.equip_trait Ghost_Lightning",
@@ -767,7 +767,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Get to Work-Perk Point",
+        "cheatCategory": "Perk Point (Get to Work)",
         "cheats": [
             {
                 "cheatName": "bucks.unlock_perk StorePlacard_1 true",
@@ -853,7 +853,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Get to Work – Retail Skill",
+        "cheatCategory": "Retail Skill (Get to work)",
         "cheats": [
             {
                 "cheatName": "stats.set_skill_level retail_workethic 5",
@@ -1203,7 +1203,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons\nChange Seasons",
+        "cheatCategory": "Seasons Change Seasons",
         "cheats": [
             {
                 "cheatName": "seasons.set_season <0>",
@@ -1241,7 +1241,7 @@
     },
     {
         "category": "cheats",
-        "cheatCategory": "Seasons\nChange Weather",
+        "cheatCategory": "Seasons Change Weather",
         "cheats": [
             {
                 "cheatName": "Sims.get_sim_id_by_name {Firstname} {Lastname}",

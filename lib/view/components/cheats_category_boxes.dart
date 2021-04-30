@@ -17,10 +17,10 @@ class CheatsCategoryBoxes extends StatelessWidget {
       padding: EdgeInsets.only(left: 5, right: 5, top: 5),
       sliver: SliverGrid(
         gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
-          maxCrossAxisExtent: 200.0,
+          maxCrossAxisExtent: 400.0,
           mainAxisSpacing: 8.0,
           crossAxisSpacing: 8.0,
-          childAspectRatio: 3 / 2,
+          childAspectRatio: 2,
         ),
         delegate: SliverChildBuilderDelegate(
           (BuildContext context, int index) {
@@ -44,10 +44,10 @@ class CheatsCategoryBoxes extends StatelessWidget {
                         "assets/images/${cheatsCategoryPhotos[index]}",
                       ),
                       fit: BoxFit.cover),
-                  color: Colors.pink,
+              
                 ),
                 child: Padding(
-                  padding: const EdgeInsets.only(right: 10.0, bottom: 5),
+                  padding: const EdgeInsets.only(right: 10.0, bottom: 10),
                   child: Row(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     mainAxisAlignment: MainAxisAlignment.end,
@@ -55,7 +55,8 @@ class CheatsCategoryBoxes extends StatelessWidget {
                       Text(
                         cheatCategoryList[index].cheatCategory,
                         style: Theme.of(context).textTheme.bodyText1.copyWith(
-                            fontSize: 15, fontWeight: FontWeight.bold),
+                              fontSize: 22,
+                            ),
                       )
                     ],
                   ),
@@ -63,7 +64,7 @@ class CheatsCategoryBoxes extends StatelessWidget {
               ),
             );
           },
-          childCount: 27,
+          childCount: cheatCategoryList.length,
         ),
       ),
     );

@@ -73,7 +73,7 @@ class Headline6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       text,
-      style: Theme.of(context).textTheme.bodyText2.copyWith(fontSize: 30),
+      style: Theme.of(context).textTheme.bodyText2.copyWith(fontSize: 24),
     );
   }
 }

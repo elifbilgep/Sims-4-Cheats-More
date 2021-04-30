@@ -13,8 +13,11 @@ class SliverAppBarCheatsCategory extends StatelessWidget {
       expandedHeight: 150,
       floating: false,
       flexibleSpace: FlexibleSpaceBar(
-        title: Headline6(text: "Cheat Categories"),
         centerTitle: true,
+        titlePadding: EdgeInsets.only(bottom: 50),
+        title: Headline6(
+          text: "Cheat Categories",
+        ),
       ),
     );
   }

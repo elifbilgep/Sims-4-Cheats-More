@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
+import 'package:sims4_cheats/view/components/sliver_appbar_cheatsDetail.dart';
 
 import '../../const.dart';
 import '../colors.dart';
@@ -23,33 +24,18 @@ class CheatDetails extends StatelessWidget {
             },
             child: CustomScrollView(
               slivers: [
-                SliverAppBar(
-                  backgroundColor: Colors.green.shade300,
-                  expandedHeight: 200,
-                  floating: false,
-                  flexibleSpace: FlexibleSpaceBar(
-                    background: Padding(
-                      padding:
-                          const EdgeInsets.only(top: 10.0, left: 10, right: 10),
-                      child: Container(
-                        child: Align(
-                          alignment: Alignment.bottomRight,
-                          child: Image.asset(
-                            "assets/images/${appBarPhotos[indexNO]}",
-                          ),
-                        ),
-                      ),
-                    ),
-                    titlePadding: EdgeInsets.all(20),
-                    title: Headline6(text: cheatCategoryName),
-                  ),
-                ),
+                SliverAppBarCheatDetails(
+                    indexNO: indexNO, cheatCategoryName: cheatCategoryName),
                 SliverList(
                   delegate: SliverChildBuilderDelegate((context, index) {
                     return Padding(
-                        padding: const EdgeInsets.all(8.0),
+                        padding:
+                            const EdgeInsets.only(top: 5.0, left: 5, right: 5),
                         child: Card(
+                          elevation: 3,
                           child: ListTile(
+                            minVerticalPadding: 8,
+                            tileColor: Colors.grey.shade200,
                             title: Text(
                               cheats[index].cheatName.toString(),
                               style: Theme.of(context)
@@ -60,14 +46,17 @@ class CheatDetails extends StatelessWidget {
                                       fontSize: 16,
                                       fontWeight: FontWeight.bold),
                             ),
-                            subtitle: Text(
-                              cheats[index].cheatResult.toString(),
-                              style: Theme.of(context)
-                                  .textTheme
-                                  .bodyText1
-                                  .copyWith(
-                                    color: Colors.grey.shade700,
-                                  ),
+                            subtitle: Padding(
+                              padding: const EdgeInsets.only(top: 5.0),
+                              child: Text(
+                                cheats[index].cheatResult.toString(),
+                                style: Theme.of(context)
+                                    .textTheme
+                                    .bodyText1
+                                    .copyWith(
+                                        color: Colors.grey.shade700,
+                                        fontSize: 15),
+                              ),
                             ),
                           ),
                         ));
