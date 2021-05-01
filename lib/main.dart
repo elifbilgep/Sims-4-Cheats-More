@@ -4,9 +4,12 @@ import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
 import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
 import 'package:sims4_cheats/view/Pages/home.dart';
 import 'package:sims4_cheats/view/Pages/login.dart';
+import 'package:sims4_cheats/view/Pages/mods.dart';
 import 'package:sims4_cheats/view/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
+
+import 'controller/fetch_mods.dart';
 
 void main() => runApp(MyApp());
 
@@ -15,7 +18,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     return MultiProvider(
-      providers: [ChangeNotifierProvider(create: (_) => FetchData())],
+      providers: [
+        ChangeNotifierProvider(create: (_) => FetchData()),
+        ChangeNotifierProvider(
+          create: (_) => FetchMods(),
+        )
+      ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Projem',
@@ -41,9 +49,9 @@ class MyApp extends StatelessWidget {
                     fontSize: 24,
                     fontWeight: FontWeight.w500,
                     color: greenDark2),
-                bodyText1: GoogleFonts.roboto(
+                bodyText1: GoogleFonts.antic(
                     textStyle: textTheme.bodyText1,
-                    fontSize: 18,
+                    fontSize: 20,
                     fontWeight: FontWeight.w400,
                     color: whiteHeadlineColor),
                 bodyText2: GoogleFonts.roboto(
@@ -54,7 +62,7 @@ class MyApp extends StatelessWidget {
                 )),
             primaryColor: greenDark1,
             accentColor: greenDark1),
-        home: Login(),
+        home: Mods(),
       ),
     );
   }

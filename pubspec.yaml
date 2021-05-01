@@ -50,9 +50,11 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/data/cheats.json
+    - assets/data/mods.json
+    - assets/images/mods/
     - assets/images/
     - assets/images/plumbob.png
-
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

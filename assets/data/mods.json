@@ -53,13 +53,13 @@
                 "modName": "Torture & Chaos ",
                 "modLink": "http://www.sacrificialmods.com/downloads.html",
                 "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
-                "modPhoto": "superhero.jpg"
+                "modPhoto": "torture.jpg"
             },
             {
                 "modName": "Experience The Apocalypse",
                 "modLink": "http://www.sacrificialmods.com/downloads.html",
                 "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
-                "modPhoto": "torture.jpg"
+                "modPhoto": "zombie.jpg"
             },
             {
                 "modName": "Gaze Into A Cursed Painting",
@@ -71,7 +71,7 @@
                 "modName": "Life Drama",
                 "modLink": "https://sacrificialmods.com/life-s-drama-news.html",
                 "modDescription": "Are the peaceful neighborhoods of Willow Creek driving players nuts? Would one day of sheer chaos be enough to bring balance back to the disgustingly happy-go-lucky life that every townie seems to live? Thankfully, there's a mod that fixes this with one go, to a point where no day is without its own unique excitement.\nThe Life's Drama mod introduces a bunch of new situations which the active household Sims can witness. Ranging from breakups to a pregnant townie suddenly going into labor, it'll definitely give the right amount of spice to any neighborhood.",
-                "modPhoto": "painting.jpg"
+                "modPhoto": "drama.jpg"
             }
         ]
     },
@@ -79,10 +79,10 @@
         "modCategory": "Romance Mods",
         "mods": [
             {
-                "modName": "Autonomous Proposals Romance Mod",
+                "modName": "Autonomous Proposals",
                 "modLink": "https://polarbearsims.com/2017/11/02/sims-4-autonomous-proposals-breakups-mod/",
                 "modDescription": "If you want to add autonomous proposals to the game you will just need to follow ",
-                "modPhoto": "superhero.jpg"
+                "modPhoto": "propose.jpg"
             },{
                 "modName": "Baby Maker Trait",
                 "modLink": "https://modthesims.info/d/596010/baby-maker-trait.html",
@@ -90,23 +90,18 @@
                 "modPhoto": "babyMaker.png"
             },
             {
-                "modName": "Experience The Apocalypse",
-                "modLink": "http://www.sacrificialmods.com/downloads.html",
-                "modDescription": "A feature that has been requested by a portion of the franchise's fans for a long time now is having the possibility to become a superhero in the game. While it's a bit of a niche gameplay feature, it's an interesting thought, since superheroes have become such a mainstream aspect of pop culture. Armaggedon mod allows just for that, and even better, for those times that players want to be evil, they can also become a powerful supervillain",
-                "modPhoto": "torture.jpg"
-            },{
-                "modName": "Kiss Neck For Adults Mod",
+                "modName": "Kiss Neck For Adults ",
                 "modLink": "https://modthesims.info/d/576161/kiss-neck-for-adults-1-19.html",
                 "modDescription": "Now, the list definitely needs to cover this simple but awesome mod by Shimrod101, which enables “Kiss Neck” as a romance interaction for young adults, adults, and elders. ",
-                "modPhoto": "painting.jpg"
+                "modPhoto": "neckKissing.jpg"
             },
             {
-                "modName": "Better Romance Mod",
+                "modName": "Better Romance ",
                 "modLink": "https://modthesims.info/d/619542/update-16-better-romance.html",
                 "modDescription": "Let us continue with a piece by Simler90. The romantic interactions in the base game are rather simplistic. This super comprehensive mod improves the gameplay substantially in various aspects, making romances much more realistic.",
                 "modPhoto": "betterRomance.jpg"
             },{
-                "modName": "Romantic Skygaze Mod",
+                "modName": "Romantic Skygaze ",
                 "modLink": "https://modthesims.info/d/588606/ts4-romantic-skygaze.html",
                 "modDescription": "This extension – which is adding new interactions in the romantic category – was created by Dramatic-gamer, who did a really cool job with this mod. ",
                 "modPhoto": "skygaze.jpg"
