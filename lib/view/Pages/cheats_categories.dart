@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:sims4_cheats/controller/admob.dart';
 import 'package:sims4_cheats/controller/fetch_data.dart';
 import 'package:provider/provider.dart';
-import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
 import 'package:sims4_cheats/view/components/cheats_category_boxes.dart';
-import 'package:sims4_cheats/view/components/headlines.dart';
 import 'package:sims4_cheats/view/components/sliver_app_cheats_category.dart';
 
 import '../../const.dart';
@@ -16,6 +16,13 @@ class Cheats extends StatelessWidget {
     var categoryNames =
         Provider.of<FetchData>(context, listen: false).readData(context);
     return Scaffold(
+      bottomNavigationBar: Container(
+        height: 50,
+        child: AdWidget(
+          key: UniqueKey(),
+          ad: AdMobService.createBannerAd(),
+        ),
+      ),
       body: NotificationListener<OverscrollIndicatorNotification>(
         onNotification: (OverscrollIndicatorNotification overScroll) {
           overScroll.disallowGlow();
@@ -30,7 +37,9 @@ class Cheats extends StatelessWidget {
             cheatCategoryList = snapshot.data;
             return CustomScrollView(
               slivers: [
-                SliverAppBarCheatsCategory(),
+                SliverAppBarCheatsCategory(
+                  text: "Cheats",
+                ),
                 CheatsCategoryBoxes(cheatCategoryList: cheatCategoryList)
               ],
             );

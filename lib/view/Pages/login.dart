@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/view/Pages/home.dart';
-import 'package:sims4_cheats/view/components/button.dart';
 import 'package:sims4_cheats/view/components/headline.dart';
 import 'package:sims4_cheats/view/components/image.dart';
 import 'package:flutter/material.dart';

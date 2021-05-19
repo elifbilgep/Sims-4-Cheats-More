@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sims4_cheats/controller/admob.dart';
 import 'package:sims4_cheats/controller/fetch_data.dart';
 import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
 import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
@@ -11,7 +12,11 @@ import 'package:provider/provider.dart';
 
 import 'controller/fetch_mods.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  AdMobService.initialize();
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
@@ -62,7 +67,7 @@ class MyApp extends StatelessWidget {
                 )),
             primaryColor: greenDark1,
             accentColor: greenDark1),
-        home: Mods(),
+        home: Login(),
       ),
     );
   }

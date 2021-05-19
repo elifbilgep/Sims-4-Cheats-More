@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
+import 'package:sims4_cheats/view/Pages/mods.dart';
 import 'package:sims4_cheats/view/components/headlines.dart';
 import 'package:sims4_cheats/view/components/home_card.dart';
 import 'package:sims4_cheats/view/components/sideappbar.dart';
@@ -99,9 +100,15 @@ class Cards extends StatelessWidget {
           SizedBox(
             width: 20,
           ),
-          HomeCard(
-            photoUrl: homeCardsPhotos[1],
-            text: "Mods",
+          GestureDetector(
+            onTap: () {
+              return Navigator.push(
+                  context, MaterialPageRoute(builder: (context) => Mods()));
+            },
+            child: HomeCard(
+              photoUrl: homeCardsPhotos[1],
+              text: "Mods",
+            ),
           ),
         ],
       ),
