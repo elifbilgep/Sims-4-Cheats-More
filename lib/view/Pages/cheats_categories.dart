@@ -17,10 +17,10 @@ class Cheats extends StatelessWidget {
         Provider.of<FetchData>(context, listen: false).readData(context);
     return Scaffold(
       bottomNavigationBar: Container(
-        height: 50,
+        height: 100,
         child: AdWidget(
           key: UniqueKey(),
-          ad: AdMobService.createBannerAd(),
+          ad: AdMobService.createBannerAd()..load(),
         ),
       ),
       body: NotificationListener<OverscrollIndicatorNotification>(

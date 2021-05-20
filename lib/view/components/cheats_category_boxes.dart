@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sims4_cheats/controller/admob.dart';
 import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
 
 import '../../const.dart';
@@ -26,6 +27,7 @@ class CheatsCategoryBoxes extends StatelessWidget {
           (BuildContext context, int index) {
             return GestureDetector(
               onTap: () {
+                AdMobService.showInterstitialAd();
                 return Navigator.push(
                     context,
                     MaterialPageRoute(
@@ -44,7 +46,6 @@ class CheatsCategoryBoxes extends StatelessWidget {
                         "assets/images/${cheatsCategoryPhotos[index]}",
                       ),
                       fit: BoxFit.cover),
-              
                 ),
                 child: Padding(
                   padding: const EdgeInsets.only(right: 10.0, bottom: 10),
