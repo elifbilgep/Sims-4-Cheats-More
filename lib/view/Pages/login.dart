@@ -20,7 +20,7 @@ class Login extends StatelessWidget {
         body: Column(
           children: [
             Headline(size: size),
-            Conta iner(
+            Container(
               height: size.height * 0.2,
               width: 220,
               child: Center(
