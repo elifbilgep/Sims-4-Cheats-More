@@ -13,7 +13,7 @@ class SideAppBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: MediaQuery.of(context).size.height,
-      width: MediaQuery.of(context).size.width * 0.15,
+      width: 55,
       color: greenDark3,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceAround,

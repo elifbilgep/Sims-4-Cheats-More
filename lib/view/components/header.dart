@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/const.dart';
-import 'package:sims4_cheats/view/colors.dart';
-import 'package:sims4_cheats/view/components/headlines.dart';
+
+import '../../const.dart';
+import '../colors.dart';
+import 'headlines.dart';
 
 class Header extends StatelessWidget {
   final String text;

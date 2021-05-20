@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/controller/admob.dart';
-import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
 
 import '../../const.dart';
+import '../../controller/admob.dart';
+import '../Pages/cheat_detail.dart';
 
 class CheatsCategoryBoxes extends StatelessWidget {
   const CheatsCategoryBoxes({

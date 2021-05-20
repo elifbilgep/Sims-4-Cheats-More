@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/models/cheat_model.dart';
+
+import '../models/cheat_model.dart';
 
 class FetchData with ChangeNotifier {
   //bool dolma

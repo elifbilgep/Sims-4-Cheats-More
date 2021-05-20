@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/Pages/home.dart';
-import 'package:sims4_cheats/view/components/headline.dart';
-import 'package:sims4_cheats/view/components/image.dart';
-import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:sims4_cheats/view/colors.dart';
+
 import '../colors.dart';
+import '../components/headline.dart';
+import '../components/image.dart';
+import 'home.dart';
 
 class Login extends StatelessWidget {
   final _formKey = GlobalKey<FormState>();
@@ -21,7 +20,7 @@ class Login extends StatelessWidget {
         body: Column(
           children: [
             Headline(size: size),
-            Container(
+            Conta iner(
               height: size.height * 0.2,
               width: 220,
               child: Center(

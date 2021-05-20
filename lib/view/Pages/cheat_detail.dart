@@ -1,11 +1,8 @@
-import 'dart:convert';
-import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/components/cheatsList.dart';
-import 'package:sims4_cheats/view/components/headlines.dart';
-import 'package:sims4_cheats/view/components/sliver_appbar_cheatsDetail.dart';
 
-import '../../const.dart';
-import '../colors.dart';
+import 'package:flutter/material.dart';
+
+import '../components/cheatsList.dart';
+import '../components/sliver_appbar_cheatsDetail.dart';
 
 class CheatDetails extends StatelessWidget {
   final indexNO;

@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:sims4_cheats/controller/admob.dart';
-import 'package:sims4_cheats/controller/fetch_data.dart';
 import 'package:provider/provider.dart';
-import 'package:sims4_cheats/view/components/cheats_category_boxes.dart';
-import 'package:sims4_cheats/view/components/sliver_app_cheats_category.dart';
 
-import '../../const.dart';
+import '../../controller/admob.dart';
+import '../../controller/fetch_data.dart';
+import '../components/cheats_category_boxes.dart';
+import '../components/sliver_app_cheats_category.dart';
 
 class Cheats extends StatelessWidget {
   List cheatCategoryList = [];

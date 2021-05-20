@@ -1,16 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/controller/admob.dart';
-import 'package:sims4_cheats/controller/fetch_data.dart';
-import 'package:sims4_cheats/view/Pages/cheat_detail.dart';
-import 'package:sims4_cheats/view/Pages/cheats_categories.dart';
-import 'package:sims4_cheats/view/Pages/home.dart';
-import 'package:sims4_cheats/view/Pages/login.dart';
-import 'package:sims4_cheats/view/Pages/mods.dart';
-import 'package:sims4_cheats/view/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 
+import 'controller/admob.dart';
+import 'controller/fetch_data.dart';
 import 'controller/fetch_mods.dart';
+import 'view/Pages/login.dart';
+import 'view/colors.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -34,7 +30,7 @@ class MyApp extends StatelessWidget {
         title: 'Projem',
         theme: ThemeData(
             textTheme: GoogleFonts.robotoTextTheme(textTheme).copyWith(
-                headline1: GoogleFonts.roboto(
+                headline1: GoogleFonts.nunito(
                     textStyle: textTheme.bodyText1,
                     fontSize: 75,
                     fontWeight: FontWeight.w700,
@@ -44,12 +40,12 @@ class MyApp extends StatelessWidget {
                     fontSize: 25,
                     fontWeight: FontWeight.w500,
                     color: whiteHeadlineColor),
-                headline3: GoogleFonts.roboto(
+                headline3: GoogleFonts.nunito(
                     textStyle: textTheme.bodyText1,
                     fontSize: 35,
                     fontWeight: FontWeight.w400,
                     color: greenDark1),
-                headline4: GoogleFonts.roboto(
+                headline4: GoogleFonts.nunito(
                     textStyle: textTheme.bodyText1,
                     fontSize: 24,
                     fontWeight: FontWeight.w500,

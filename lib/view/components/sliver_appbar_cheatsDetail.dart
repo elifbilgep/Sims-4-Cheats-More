@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sims4_cheats/view/colors.dart';
 
 import '../../const.dart';
+import '../colors.dart';
 import 'headlines.dart';
 
 class SliverAppBarCheatDetails extends StatelessWidget {
