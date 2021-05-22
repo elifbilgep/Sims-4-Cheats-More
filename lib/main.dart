@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-
 import 'controller/admob.dart';
-import 'controller/fetch_data.dart';
-import 'controller/fetch_mods.dart';
+import 'controller/fetch.dart';
 import 'view/Pages/login.dart';
 import 'view/colors.dart';
 
@@ -35,7 +33,7 @@ class MyApp extends StatelessWidget {
                     fontSize: 75,
                     fontWeight: FontWeight.w700,
                     color: whiteHeadlineColor),
-                headline2: GoogleFonts.roboto(
+                headline2: GoogleFonts.nunito(
                     textStyle: textTheme.bodyText1,
                     fontSize: 25,
                     fontWeight: FontWeight.w500,
@@ -55,7 +53,7 @@ class MyApp extends StatelessWidget {
                     fontSize: 20,
                     fontWeight: FontWeight.w400,
                     color: whiteHeadlineColor),
-                bodyText2: GoogleFonts.roboto(
+                bodyText2: GoogleFonts.nunito(
                   color: whiteHeadlineColor,
                   textStyle: textTheme.bodyText1,
                   fontSize: 23,

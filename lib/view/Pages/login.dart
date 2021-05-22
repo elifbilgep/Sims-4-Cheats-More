@@ -7,6 +7,8 @@ import '../components/image.dart';
 import 'home.dart';
 
 class Login extends StatelessWidget {
+  
+
   final _formKey = GlobalKey<FormState>();
   String name;
   @override
@@ -66,7 +68,7 @@ class Login extends StatelessWidget {
                   onPressed: () {
                     if (_formKey.currentState.validate()) {
                       _formKey.currentState.save();
-                      return Navigator.push(context,
+                      return Navigator.pushReplacement(context,
                           MaterialPageRoute(builder: (context) {
                         return HomePage(
                           name: name,
@@ -89,3 +91,4 @@ class Login extends StatelessWidget {
     );
   }
 }
+  

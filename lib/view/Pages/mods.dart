@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:sims4_cheats/controller/fetch.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-import '../../controller/fetch_mods.dart';
 import '../components/headlines.dart';
 import '../components/sliver_app_cheats_category.dart';
 

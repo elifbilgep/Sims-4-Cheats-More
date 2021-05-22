@@ -19,6 +19,7 @@ class AdMobService {
     }
   }
 
+  // ignore: missing_return
   static BannerAd createBannerAd() {
     try {
       BannerAd ad = new BannerAd(
@@ -26,7 +27,7 @@ class AdMobService {
           adUnitId: bannerUnitId,
           listener: AdListener(
               onAdLoaded: (Ad ad) => print("Ad loaded"),
-              onAdFailedToLoad: (Ad ad, LoadAdError) {
+              onAdFailedToLoad: (Ad ad, loadAdError) {
                 ad.dispose();
               },
               onAdOpened: (Ad ad) => print("ad opened"),
@@ -44,12 +45,12 @@ class AdMobService {
   }
 
   static InterstitialAd createInterstitialAd() {
-    try {
+    
       return InterstitialAd(
           adUnitId: interstitialId,
           listener: AdListener(
             onAdLoaded: (Ad ad) => _interstitialAd.show(),
-            onAdFailedToLoad: (Ad ad, LoadAdError) {
+            onAdFailedToLoad: (Ad ad, loadAdError) {
               ad.dispose();
             },
             onAdOpened: (Ad ad) => print("ad opened"),
@@ -57,9 +58,7 @@ class AdMobService {
             onApplicationExit: (Ad ad) => _interstitialAd.dispose(),
           ),
           request: AdRequest());
-    } catch (e) {
-      print("Hata: " + e.toString());
-    }
+    
   }
 
   static void showInterstitialAd() {

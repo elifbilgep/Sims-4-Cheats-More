@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:provider/provider.dart';
+import 'package:sims4_cheats/controller/fetch.dart';
 
 import '../../controller/admob.dart';
-import '../../controller/fetch_data.dart';
 import '../components/cheats_category_boxes.dart';
 import '../components/sliver_app_cheats_category.dart';
 
