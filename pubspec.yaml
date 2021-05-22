@@ -34,9 +34,10 @@ dependencies:
   url_launcher: ^6.0.3
   google_mobile_ads: ^0.11.0+1
   firebase_core: ^1.0.2
-  firebase_auth: ^1.0.1
+  firebase_auth: ^1.2.0
   shared_preferences: ^2.0.5
   after_layout: ^1.1.0
+  cloud_firestore: ^2.2.0
 
 dev_dependencies:
   flutter_test:

@@ -44,14 +44,14 @@ class _HomePageState extends State<HomePage> {
                       flex: 1,
                       fit: FlexFit.tight,
                       child: Headline3(
-                        text: "Hi " + widget.name + "!",
+                        text: "Sul Sul! ",
                       ),
                     ),
                     Flexible(
                       flex: 2,
                       fit: FlexFit.tight,
                       child: Headline4(
-                        text: "Welcome to\nThe Sims 4 World",
+                        text: "The Sims 4\nCheats & More",
                       ),
                     ),
                     Flexible(

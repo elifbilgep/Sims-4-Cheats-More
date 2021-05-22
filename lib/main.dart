@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
+import 'package:sims4_cheats/view/Pages/home.dart';
 import 'controller/admob.dart';
 import 'controller/fetch.dart';
-import 'view/Pages/login.dart';
+
 import 'view/colors.dart';
 
 void main() {
@@ -40,13 +41,13 @@ class MyApp extends StatelessWidget {
                     color: whiteHeadlineColor),
                 headline3: GoogleFonts.nunito(
                     textStyle: textTheme.bodyText1,
-                    fontSize: 35,
+                    fontSize: 40,
                     fontWeight: FontWeight.w400,
                     color: greenDark1),
                 headline4: GoogleFonts.nunito(
-                    textStyle: textTheme.bodyText1,
-                    fontSize: 24,
-                    fontWeight: FontWeight.w500,
+                    textStyle: textTheme.headline4,
+                    fontSize: 28,
+                    fontWeight: FontWeight.w700,
                     color: greenDark2),
                 bodyText1: GoogleFonts.antic(
                     textStyle: textTheme.bodyText1,
@@ -61,7 +62,7 @@ class MyApp extends StatelessWidget {
                 )),
             primaryColor: greenDark1,
             accentColor: greenDark1),
-        home: Login(),
+        home: HomePage(),
       ),
     );
   }
