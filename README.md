@@ -1,4 +1,4 @@
-# Sims 4 Cheats and More
+# Sims 4 Cheats & More
 
 
 <p align= "center" >
